@@ -1,0 +1,543 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famous history of Auristella originally written by Don Gonsalo de Cepedes ; together with the pleasant story of Paul of Segovia, by Don Francisco de Quevedo ; translated from the Spanish.</title>
+            <title>Español Gerardo. Parte 1, discurso 2. English</title>
+            <author>Céspedes y Meneses, Gonzalo de, 1585?-1638.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31544</idno>
+            <idno type="STC">Wing C1782</idno>
+            <idno type="STC">ESTC R9238</idno>
+            <idno type="EEBO-CITATION">12274715</idno>
+            <idno type="OCLC">ocm 12274715</idno>
+            <idno type="VID">58413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58413)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 134:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famous history of Auristella originally written by Don Gonsalo de Cepedes ; together with the pleasant story of Paul of Segovia, by Don Francisco de Quevedo ; translated from the Spanish.</title>
+                  <title>Español Gerardo. Parte 1, discurso 2. English</title>
+                  <author>Céspedes y Meneses, Gonzalo de, 1585?-1638.</author>
+                  <author>Quevedo, Francisco de, 1580-1645. Historia de la vida del Buscón. English.</author>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>[6], 3-140 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hindmarsh ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translator's dedicatory epistle signed: W.B.</note>
+                  <note>"The famous history of Auristella" appears as part I, discurso 2, in "El Español Gerado." Cf. BM.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58413:1"/>
+            <pb facs="tcp:58413:1"/>
+            <p>The Famous HISTORY OF Auriſtella, Originally Written By <hi>Don Gonſalo de Cepedes.</hi>
+            </p>
+            <p>TOGETHER With the Pleaſant STORY OF <hi>PAUL</hi> of <hi>Segovia,</hi> BY <hi>Don Franciſco de Quevedo.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated from the</hi> Spaniſh</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Hindmarſh,</hi> Book<g ref="char:EOLhyphen"/>ſeller to his Royal Highneſs, at the <hi>Black Bull</hi> in Cornhil, 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58413:2" rendition="simple:additions"/>
+            <pb facs="tcp:58413:2"/>
+            <head>To the Honourable Lady, <hi>Henrietta Grenvile.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>THIS little piece of the growth of <hi>Spain,</hi> was plea<g ref="char:EOLhyphen"/>ſing to me in the reading it; and having too much leaſure now, I took the pains to make it ſpeak <hi>En<g ref="char:EOLhyphen"/>gliſh;</hi> and when I had done it, I had an inſpired thought (on ſome previous Diſcourſes of your Noble Family, and particularly of your ſelf) to preſent it to you; ſuppoſing as it could add little to your better diverſions; yet at leaſt it could take little from them;
+<pb facs="tcp:58413:3"/>
+beſides I had Preſidents from others, who have done ſome<g ref="char:EOLhyphen"/>thing of like nature, Dedica<g ref="char:EOLhyphen"/>ted to Perſons of Quality to manifeſt their reſpects and ſer<g ref="char:EOLhyphen"/>vice to them. Thus encou<g ref="char:EOLhyphen"/>raged in this attempt by ſuch examples, I durſt publickly prefix your Ladiſhip, for ſuch a Patroneſs ſo Honourable by Deſcent, and ſo fam'd for In<g ref="char:EOLhyphen"/>genuity: For you Madam, to the invincible Courage and Conduct of your Heroick An<g ref="char:EOLhyphen"/>ceſtors (ſome whereof worthi<g ref="char:EOLhyphen"/>ly knew how to make an Alli<g ref="char:EOLhyphen"/>ance between the <hi>Laurel</hi> and <hi>Olive,</hi> as a living Branch of their Illuſtrious Stem) have added to their Renown, that
+<pb facs="tcp:58413:3"/>
+Sweetneſs, Beauty and Inge<g ref="char:EOLhyphen"/>nuity, which eminently have influenced all who have had the honour to be well-acquaint<g ref="char:EOLhyphen"/>ed with you, to eſteem and re<g ref="char:EOLhyphen"/>view you for them. That ſin<g ref="char:EOLhyphen"/>gular Virtue you are Miſtriſs of, obliges me among others to pay you this Homage, which I humbly ſupplicate you would vouchſafe to accept, as coming from a perſon that loves and honours you with all his heart; deſiring that you would par<g ref="char:EOLhyphen"/>don my confidence in this Ad<g ref="char:EOLhyphen"/>dreſs, which ſprang from the obſervation I have made and heard of your Goodneſs and excellent Merits; at leaſt that you would be pleas'd to
+<pb facs="tcp:58413:4"/>
+connive at my boldneſs to De<g ref="char:EOLhyphen"/>dicate this Trifle to kiſs your hands; thereby imitating that <hi>Roman</hi> Emperor's meekneſs, who dain'd to accept of a Cup of Water from a poor Woman that in humility preſented it: I am loth to tire you with rea<g ref="char:EOLhyphen"/>ding of my zeal to ſerve you; (for I have not Rhetoric enough to expreſs your Praiſes) and therefore I haſten to tell you, that I remain with a particu<g ref="char:EOLhyphen"/>lar reverence, as being one who counts it his higheſt ho<g ref="char:EOLhyphen"/>nour to publiſh himſelf.</p>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>Your Ladiſhips affectionate Kinſman, and moſt humble Servant, <hi>W. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="history">
+            <pb n="3" facs="tcp:58413:4"/>
+            <head>The Famous HISTORY OF Auriſtella.</head>
+            <p>THE City of <hi>Se<g ref="char:EOLhyphen"/>ville,</hi> the renown<g ref="char:EOLhyphen"/>ed and Opulent <hi>Emporium</hi> of all <hi>Spain,</hi> gave me Birth, to which my Father retired
+<pb n="4" facs="tcp:58413:5"/>
+and ſettled ever ſince he had ſolemniz'd the Marriage with my Mother, whoſe Fa<g ref="char:EOLhyphen"/>ther was honourable and rich, and had left her at his Death a conſiderable For<g ref="char:EOLhyphen"/>tune, which he had acqui<g ref="char:EOLhyphen"/>red by the many important Emploies in his Majeſties Service in that eminent Port, where they paſſed ma<g ref="char:EOLhyphen"/>ny years in Love and Splen<g ref="char:EOLhyphen"/>dor, until my unfortunate Self was born, being the laſt and onely Surviving Off<g ref="char:EOLhyphen"/>ſpring from their Marriage Bed. My Name <hi>Philan<g ref="char:EOLhyphen"/>der,</hi> ſo called in remem<g ref="char:EOLhyphen"/>brance of my Mothers Fa<g ref="char:EOLhyphen"/>ther, whoſe Name was <hi>Phi<g ref="char:EOLhyphen"/>lander
+<pb n="5" facs="tcp:58413:5"/>
+de Taurello's—</hi>
+            </p>
+            <p>My Mother (whome I merited not to know) be<g ref="char:EOLhyphen"/>ing dead through the un<g ref="char:EOLhyphen"/>happy Travil ſhe ſuffered in bringing me into the world, I remained from my tender Infancy ſubject to ſuch In<g ref="char:EOLhyphen"/>commodities, wherewith ſuch are moſt commonly brought up with, who are deprived of their Maternal care and kindneſſes; altho' that misfortune was in ſome meaſure repayed by the Education which I had in the Noble Family of <hi>Coſmos</hi> my Father. But the ten<g ref="char:EOLhyphen"/>der love which he had for my Mother, ſo much aug<g ref="char:EOLhyphen"/>mented
+<pb n="6" facs="tcp:58413:6"/>
+that loſs and his af<g ref="char:EOLhyphen"/>fliction, that he could re<g ref="char:EOLhyphen"/>ceive no comfort, notwith<g ref="char:EOLhyphen"/>ſtanding the aſſiduous Arti<g ref="char:EOLhyphen"/>fices of his beſt friends to ef<g ref="char:EOLhyphen"/>fect it; inſomuch, that this fatal Blow at once took from him all Joy, Health and Tranquillity of Mind, and made him a deplorable Picture of Tears and Grief. But at lenth, obſerving that the higheſt part of his miſe<g ref="char:EOLhyphen"/>ry was cauſed by continu<g ref="char:EOLhyphen"/>ing in that ſame place, where had paſſed his Youth in the enjoyment of his Deareſt Spouſe: he reſolved and prepared to remove from all that did ſo continually
+<pb n="7" facs="tcp:58413:6"/>
+torment his Memory; and to leave the Kingdom of <hi>Spain</hi> his once ſo beloved Country, ſelling ſome of his Eſtate which he conver<g ref="char:EOLhyphen"/>ted into money, and lea<g ref="char:EOLhyphen"/>ving the reſt towards the ſupport and maintenance of me his Son: he embar<g ref="char:EOLhyphen"/>qued on a <hi>Man of War</hi> bound for <hi>Oſtend</hi> in <hi>Flanders,</hi> whi<g ref="char:EOLhyphen"/>ther in few daies the favou<g ref="char:EOLhyphen"/>rable Winds brought him; but 'ere he went he com<g ref="char:EOLhyphen"/>mitted me to the Conduct of one of my Uncles, who was his Brother. My Fa<g ref="char:EOLhyphen"/>thers health was wholly re<g ref="char:EOLhyphen"/>ſtored him in that Foreign Country, where we heard
+<pb n="8" facs="tcp:58413:7"/>
+he lived ſo content and ho<g ref="char:EOLhyphen"/>nourable, that we loſt all hopes of ſeeing him again; not doubting but that he would forget thoſe regards which his proper Bloud might almoſt challenge from him, by the increaſe of his Fortune and Honour, if Providence had not alte<g ref="char:EOLhyphen"/>red his deſign in the man<g ref="char:EOLhyphen"/>ner I am about to deſcribe.</p>
+            <p>A Gentleman of Quality of the Kingdom of <hi>Caſtile,</hi> a Native of the City of <hi>To<g ref="char:EOLhyphen"/>ledo,</hi> whoſe Name was <hi>Lo<g ref="char:EOLhyphen"/>renzo D'ſpado,</hi> having ſpent a conſiderable Fortune which he poſſeſſed, had re<g ref="char:EOLhyphen"/>duced his honoorable Fami<g ref="char:EOLhyphen"/>ly
+<pb n="9" facs="tcp:58413:7"/>
+to that extream want, that it had ſcarcely where<g ref="char:EOLhyphen"/>with to ſubſiſt: at length he reſolved, (hoping to raiſe his Fortune in another Country, and to avoid the troubleſome diſgraces in his own) to take the ſame Voiage as my father did, leaving, however with ma<g ref="char:EOLhyphen"/>ny ſentiments of ſorrow the company of his dear Wife, and his beautiful young Daughter, whoſe name was <hi>Auriſtella,</hi> his chiefeſt Joy. Yet his Wifes and her Tears and Sighs (which might have ſoftned Marble) could not change his reſolution; therefore they muſt ſubmit
+<pb n="10" facs="tcp:58413:8"/>
+to this Voyage and the loſs of his company for the ſpace of ten years, which he deter<g ref="char:EOLhyphen"/>mined to ſtay from them.</p>
+            <p>As he had but little of his Eſtate left, yet what remai<g ref="char:EOLhyphen"/>ned he gave for the uſe of of his Wife and Daughter, and requeſted them to be adviſed in all their Affairs by his antient and faithful ſervant <hi>Andreo Scordos,</hi> (a <hi>Biſcaner</hi> by Birth) who was likewiſe his Kinſman, and one whom he loved as en<g ref="char:EOLhyphen"/>tirely as if he had been his ſon, and in whom he had great reaſon to confide, which was the greateſt com<g ref="char:EOLhyphen"/>fort he was able to frame to
+<pb n="11" facs="tcp:58413:8"/>
+his diſcompoſed thoughts in thoſe great afflictions.</p>
+            <p>His good Fortune or my unhappy Star rather, gui<g ref="char:EOLhyphen"/>ded him (when landed in <hi>Flanders</hi>) to go to <hi>Bruſſels,</hi> having changed his name as is cuſtomary with the <hi>Spa<g ref="char:EOLhyphen"/>niards,</hi> when they are in Fo<g ref="char:EOLhyphen"/>reign Lands; who alſo are wont to conceal their Qua<g ref="char:EOLhyphen"/>lities that they may be indu<g ref="char:EOLhyphen"/>ced to ſeek a maintenance moſt profitable. He Arrived about the time my fathers Lieutenant Collonel was ſlain, and my father being then at <hi>Bruſſels,</hi> and acciden<g ref="char:EOLhyphen"/>tally meeting <hi>Lorenzo D'ſpado,</hi> (who being educated toge<g ref="char:EOLhyphen"/>ther in their Youth at <hi>Sala<g ref="char:EOLhyphen"/>manca</hi>)
+<pb n="12" facs="tcp:58413:9"/>
+both were ſurpri<g ref="char:EOLhyphen"/>ſed to ſee each other; and after many generous and af<g ref="char:EOLhyphen"/>fectionate Congratulations, made friendly enquiries of each others condition; which being fully made known; my father, by the great inte<g ref="char:EOLhyphen"/>reſt his good fortunes had acquired him from the no<g ref="char:EOLhyphen"/>ble Governour of thoſe Pro<g ref="char:EOLhyphen"/>vinces, quickly got his favou<g ref="char:EOLhyphen"/>rable conſent, that <hi>Lorenzo</hi> ſhould be his Lieutenant Collonel, repreſenting him to be of a noble Extraction, and one that was fitly qua<g ref="char:EOLhyphen"/>lified for ſuch a Command. It ſo happened, that <hi>Loren<g ref="char:EOLhyphen"/>zo D'ſpado</hi> ſoon got great
+<pb n="13" facs="tcp:58413:9"/>
+honour by his prudent Con<g ref="char:EOLhyphen"/>duct, having alſo an Of<g ref="char:EOLhyphen"/>fice conferred on him, by which he grew very rich in few years.</p>
+            <p>But at length the Air of that Country not agreeing with his health, and above all deſiring to return to his dear Country of <hi>Spain;</hi> he one day took an occaſion to tell my father the reſoluti<g ref="char:EOLhyphen"/>on which he had taken. It is difficult to expreſs the grief my father had in the fear to loſe ſo gallant a Companion and antient a friend, when he was infor<g ref="char:EOLhyphen"/>med of his intended return, therefore he made his
+<pb n="14" facs="tcp:58413:10"/>
+chiefeſt prayers and appli<g ref="char:EOLhyphen"/>cations to him, that he would not leave thoſe parts, and conferred about the beſt waies and means to re-eſta<g ref="char:EOLhyphen"/>bliſh his health. Beſides, he made uſe of many Arti<g ref="char:EOLhyphen"/>fices and plauſible pretences whatever he could invent to alter his reſolution, and perſwade his ſtay; but all in vain, for <hi>Lorenzo,</hi> who could never appear inſenſi<g ref="char:EOLhyphen"/>ble of the many graces he had received from the Go<g ref="char:EOLhyphen"/>vernour, and other Nobles of that Country, as well as from my father, thought that it was now high time no longer to diſguiſe the
+<pb n="15" facs="tcp:58413:10"/>
+reaſons that further obliged him to return, and for ſome time to quit his Emploies. The moſt important were to ſee his dear Wife and Daughter, and to retrieve an antient Eſtate, which had been mortgaged, and would be forfeited, and therefore it was fit to get that and o<g ref="char:EOLhyphen"/>ther things ſettled to his li<g ref="char:EOLhyphen"/>king, and for the good of his family; and when his health permitted he would again return to <hi>Flanders.</hi>
+            </p>
+            <p>Thoſe reaſons were ſo e<g ref="char:EOLhyphen"/>vident that my father had nothing to reply, which did not only ſatisfie, but alſo for a particular love to his
+<pb n="16" facs="tcp:58413:11"/>
+company, made him him<g ref="char:EOLhyphen"/>ſelf to think of returning to; conſidering alſo, that in his heart the love for his own family and Country did not a little oblige him to do ſo, having now alſo got a fair Fortune to make him the more welcome.</p>
+            <p>Thus concerting their in<g ref="char:EOLhyphen"/>tereſt, love to their Fami<g ref="char:EOLhyphen"/>lies, and the high eſteem of each others Company, they both reſolv'd to leave <hi>Flan<g ref="char:EOLhyphen"/>ders;</hi> which that they might do with all poſſible Honour and Reſpect, they both took leave of that Court, which did diſpenſe with their juſt and important reaſons for
+<pb n="17" facs="tcp:58413:11"/>
+ſome time; ſo they both prepared together to ſhip at <hi>Oſtend,</hi> from whence after a happy Navigation, they arriv'd at the famous Port of <hi>San Lucar,</hi> where all the Relations of my Father went to meet him, having receiv'd Letters of Advice by the Poſt to that purpoſe. But e're they came to Land, my Father had entertained <hi>Lo<g ref="char:EOLhyphen"/>renzo</hi> with his fervent De<g ref="char:EOLhyphen"/>ſires to coment their friend<g ref="char:EOLhyphen"/>ſhip, that it might be never altered; and juſt before they left the Ship, he took occa<g ref="char:EOLhyphen"/>ſion to ſpeak to him in theſe terms. I do not doubt <hi>(dear friend)</hi> but that you are ſa<g ref="char:EOLhyphen"/>tisfied
+<pb n="18" facs="tcp:58413:12"/>
+of my Friendſhip, as I am aſſured of yours, there<g ref="char:EOLhyphen"/>fore I much wiſh that our ſeparation may not leſſen it, and nothing in the World may be capable to deſtroy it. And to perpetuate it, I have meditated one expedi<g ref="char:EOLhyphen"/>ent (if you pleaſe to approve it) that it may be eternal, which is to make an Alli<g ref="char:EOLhyphen"/>ance between us by the marriage of your Daughter to my Son, if it has pleas'd Heaven to let them live which we now at our land<g ref="char:EOLhyphen"/>ing ſhall quickly know) You ſee I communicate to you the inmoſt receſſes of my Soul, and it will be
+<pb n="19" facs="tcp:58413:12"/>
+your part now to let me frankly know your reſolu<g ref="char:EOLhyphen"/>tion herein. <hi>Lorenzo</hi> an<g ref="char:EOLhyphen"/>ſwered him with tears of joy, which evidenced the conſent of his heart to his Propoſals, and ſoon grant<g ref="char:EOLhyphen"/>ed him his Daughter, which he demanded for me; pro<g ref="char:EOLhyphen"/>teſting to him that he was maſter of his Life, Honour &amp; of his good Fortune; and ſo they fell to embrace each other. That done, they both came on ſhore, where my Kindred and my ſelf, who were all ready come to <hi>San Lucar,</hi> in expectati<g ref="char:EOLhyphen"/>on of him, ſaluted them with much joy; my Father
+<pb n="20" facs="tcp:58413:13"/>
+having been wanting four<g ref="char:EOLhyphen"/>teen years, and I then but ſix when he quitted <hi>Spain</hi> and went for <hi>Flanders.</hi>
+            </p>
+            <p>My Father having taken ſolemn leave of <hi>Lorenzo,</hi> was impatient of all delaies that might obſtruct his ſee<g ref="char:EOLhyphen"/>ing his ancient place of Re<g ref="char:EOLhyphen"/>ſidence; and we came to <hi>Seville,</hi> to the unſpeakable ſatisfaction of our Friends and Relations. My Father told me of the Marriage he had agreed on for me, which I diſpoſed my ſelf to obey with all Pleaſure and De<g ref="char:EOLhyphen"/>light, and had prepared my ſelf accordingly for my de<g ref="char:EOLhyphen"/>parture, to wait on the fair
+<pb n="21" facs="tcp:58413:13"/>
+               <hi>Auriſtella,</hi> my intended Wife. In few dayes after a Courier was ſent from <hi>Lo<g ref="char:EOLhyphen"/>renzo</hi> (as was agreed he ſhould) to advertiſe that he was ſafely come to his own abode at <hi>Toledo.</hi> Who can imagine the mutual joyes of his Wife, Daughter, and Friends, for his ſafe return; but ſurely mine were not leſs than theirs, eſpecially ſince the Meſſenger had re<g ref="char:EOLhyphen"/>preſented to me the incom<g ref="char:EOLhyphen"/>parable Qualities and Vir<g ref="char:EOLhyphen"/>tues of <hi>Auriſtella;</hi> and that ſhe was the moſt renowned Beauty of all <hi>Caſtile,</hi> which made me believe I ſhould never ſoon enough ſee the
+<pb n="22" facs="tcp:58413:14"/>
+hour of my departure for <hi>Toledo.</hi> He gave an account alſo, by his Letter, that he found to his extream con<g ref="char:EOLhyphen"/>tent, his Wife and Daughter in perfect health. He gave them alſo an account how he had ſpent his time, and what great Honours he had attained in his Travails, and of the Marriage that was concerted with my Father, which was received with the general applauſe of his Fa<g ref="char:EOLhyphen"/>mily, Kindred, and Friends, who were reſolved to make honourable preparations for all things neceſſary for our Marriage. And now the time of my departure being
+<pb n="23" facs="tcp:58413:14"/>
+come, I had my Fathers Bleſſing, and went to take leave of one of my intimate &amp; particular Friends, named <hi>Bennato,</hi> of whom I ſhall ſpeak more in the purſuit of this Diſcourſe, then ta<g ref="char:EOLhyphen"/>king Poſt, with ſome of my People, I arrived in four daies at the renowned City of <hi>Toledo,</hi> and went ſtrait to my Miſtreſſes Father's Houſe; I had no ſooner quitted my Stirrup, but in<g ref="char:EOLhyphen"/>ſtead of finding all the Joy and Welcome I expected, I ſaw nothing but an ex<g ref="char:EOLhyphen"/>tream confuſion, and abun<g ref="char:EOLhyphen"/>dance of Tears, Sadneſs and Grief, which infinitely ſur<g ref="char:EOLhyphen"/>priſed
+<pb n="24" facs="tcp:58413:15"/>
+me, although I were received with many marks of ſatisfaction, my preſence ſeeming an evident Conſo<g ref="char:EOLhyphen"/>lation to that afflicted Fa<g ref="char:EOLhyphen"/>mily, from whom I was im<g ref="char:EOLhyphen"/>mediately informed; (ſhew<g ref="char:EOLhyphen"/>ing me the Body of <hi>Andres</hi> their antient Domeſtick ſer<g ref="char:EOLhyphen"/>vant the <hi>Biſcaner</hi> (whom I before mentioned) which was extended on a black Cloth, pierced with five cruel Wounds; which Bo<g ref="char:EOLhyphen"/>dy was found near the Gate of their Houſe that very morning, wrapped up in bloody Linnen, without knowing or imagining who how or when it was put
+<pb n="25" facs="tcp:58413:15"/>
+into that deplorable ſtate, al<g ref="char:EOLhyphen"/>though they uſed all poſſi<g ref="char:EOLhyphen"/>ble diligence to diſcover the Author of his Death: They related to me the friendſhip that <hi>Lorenzo</hi> had for him, the confidence he had in him, the good ſervice he had done, and particularly during his abſence; that I could not condemn the re<g ref="char:EOLhyphen"/>ſentments of his unfortu<g ref="char:EOLhyphen"/>nate End, nor the ſtrange reception I found. This oc<g ref="char:EOLhyphen"/>caſioned hower the delay of our Marriage for two daies, which ſeemed ſo many long years; for having ſeen the fair <hi>Auriſtella,</hi> and enjoyed her lovely ſociety, my de<g ref="char:EOLhyphen"/>ſires
+<pb n="26" facs="tcp:58413:16"/>
+were inflamed with greater violence.</p>
+            <p>At laſt, the happy day was come, and the night ſo mutually deſired; But alas! no ſooner was I faln aſleep, but the hands and cries of <hi>Auriſtella</hi> awakened me in a ſtrange afright, lowdly calld me to the aſſiſtance of her Fathers Houſe, which at the ſame time was conſuming by dreadful flames: I ha<g ref="char:EOLhyphen"/>ſtily put on my Gown, and immediately ran from my Apartment, being lighted by the ſparkling Flames that this pitileſs Element ſent up<g ref="char:EOLhyphen"/>wards to its Sphear; then running to the place where
+<pb n="27" facs="tcp:58413:16"/>
+they appeared moſt violent, I met <hi>Lorenzo,</hi> his Wife and others of the Family; and in a moment (the Bell gi<g ref="char:EOLhyphen"/>ving the occuſtomed Sig<g ref="char:EOLhyphen"/>nal) all the Neighbourhood being alarmed, came and uſed all poſſible diligence to put ſome ſtop to the force of the Fire. All the Houſe being filled with noiſes and cries, in that confuſion I ſaw and heard my <hi>Auriſtel<g ref="char:EOLhyphen"/>la,</hi> my greateſt and chiefeſt care in this misfortune was for her, to whom I came, being called by the ſad Ec<g ref="char:EOLhyphen"/>choes of her Sighs; I found her in a Swoon, between the arms of her loving Mo<g ref="char:EOLhyphen"/>ther
+<pb n="28" facs="tcp:58413:17"/>
+near to a deep Well, where all the ſervants were, which redoubled my affli<g ref="char:EOLhyphen"/>ctions, when they told me that the cauſe of that mor<g ref="char:EOLhyphen"/>tal Aecident was no leſs do<g ref="char:EOLhyphen"/>lorous than the death of the miſerable <hi>Biſcaner;</hi> and that a young Damoſel, named <hi>Mariana,</hi> ſervant to <hi>Auri<g ref="char:EOLhyphen"/>ſtella</hi> (employing her ſelf among the reſt to draw wa<g ref="char:EOLhyphen"/>ter out of the Well to give it to others to quench the Fire) was faln into it in the ſight of her Miſtris, and was therein drowned before ſhe could be taken up, but when with much adoe ſhe was taken out, it did ſo
+<pb n="29" facs="tcp:58413:17"/>
+much augment the Tears of the Mother and Daughter, who loved her dearly, ha<g ref="char:EOLhyphen"/>ving bred her in their ſer<g ref="char:EOLhyphen"/>vice from her Childhood, that nothing was able to comfort them; and I could add leſs conſolation to them than others in the pitiful E<g ref="char:EOLhyphen"/>ſtate which theſe ſad adven<g ref="char:EOLhyphen"/>tures had reduced me to.</p>
+            <p>In fiine, Time which is a Grand Maſter, heald all theſe troubles though they ſtill ſeemed preſent to my remembrance as ſad Augu<g ref="char:EOLhyphen"/>ries and unhappy Preſages of our Marriage.</p>
+            <p>Having paſſed ſome months at <hi>Toledo,</hi> I recei<g ref="char:EOLhyphen"/>ved
+<pb n="30" facs="tcp:58413:18"/>
+Letters from my Fa<g ref="char:EOLhyphen"/>ther to require my return, and <hi>Auriſtella</hi> took leave of her Parents. (which was not performed without many Tears) We ſet forwards, and <hi>Bennato</hi> with us, who re<g ref="char:EOLhyphen"/>turned from the Court to <hi>Seville,</hi> from whence he went about the ſame time as I did; he came very op<g ref="char:EOLhyphen"/>portunely, and was ſo kind as to keep us company, by which means our Journey ſeemed very agreeable. At length we came to my Fa<g ref="char:EOLhyphen"/>thers Houſe, where we were expected with much impa<g ref="char:EOLhyphen"/>tience, by whom and our Kindred we were received
+<pb n="31" facs="tcp:58413:18"/>
+with many marks of the greateſt welcome, which much contributed to mode<g ref="char:EOLhyphen"/>rate the griefs which <hi>Auri<g ref="char:EOLhyphen"/>ſtella</hi> by being now remo<g ref="char:EOLhyphen"/>ved from her own Parents. We had convenient Lodg<g ref="char:EOLhyphen"/>ings aſſigned us, where we were daily viſited by my dear Friend <hi>Bennato:</hi> I li<g ref="char:EOLhyphen"/>ved ſo contented a life with my dear <hi>Auriſtella,</hi> that I could hardly conſent to be one moment from her; but the Fates envying my Re<g ref="char:EOLhyphen"/>poſe, permitted me not lon<g ref="char:EOLhyphen"/>ger to enjoy the pleaſures which I had done above four years paſt. The friend<g ref="char:EOLhyphen"/>ſhip which was contracted
+<pb n="32" facs="tcp:58413:19"/>
+between <hi>Bennato</hi> and my ſelf was ſo great, that ſeldome a day paſſed without an in<g ref="char:EOLhyphen"/>terview; he coming to me or I to him, and we lived with ſuch conformity as if we had lain in the ſame Belly, and been nouriſhed with the ſame Bloud. But one day that <hi>Bennato</hi> could not meet me, nor I him, (being as it were jealous of each other, attributing it to ſome neglect) which would at the ſame time give ſome marks of our careful reſpect; and ſeeing it was late, I re<g ref="char:EOLhyphen"/>ſolved to wait for him at his Lodging, and he at the ſame time came to mine,
+<pb n="33" facs="tcp:58413:19"/>
+with deſign not to ſtir from thence till I returned.</p>
+            <p>
+               <hi>Auriſtella,</hi> who was indi<g ref="char:EOLhyphen"/>ſpoſed, kept her Bed, near whom <hi>Bennato</hi> ſtaid expect<g ref="char:EOLhyphen"/>ing my return, whilſt I wea<g ref="char:EOLhyphen"/>ry with expectation of him, at length came home, re<g ref="char:EOLhyphen"/>mitting my Viſit to ſome other time: But finding the Door ſhut, (which was never done when I was a<g ref="char:EOLhyphen"/>broad) I knockt ſeveral times e're it was opened. I muſt proteſt that this gave me ſome ſlight ſuſpition; I drew near to a little Crany, which appeared through the ill-joyned Boards, to ſee or hear what paſſed in the
+<pb n="34" facs="tcp:58413:20"/>
+Houſe; would Heaven had rather made me blind than permitted me to have had ſuch a Curioſity! I ſaw a Slave deſcending, carrying a man on his ſhoulders to<g ref="char:EOLhyphen"/>wards the Garden-door, where leaving him, he came and opened that at which I ſtood. One may judg of the trouble and alteration that this ſight gave me: I no ſooner entred, but I ran to the Garden, where I per<g ref="char:EOLhyphen"/>ceived a man to hide him<g ref="char:EOLhyphen"/>ſelf among the Myrtles, which more than my Tran<g ref="char:EOLhyphen"/>ſport was the cauſe of his Death. For being not well able to put himſelf in a po<g ref="char:EOLhyphen"/>ſture
+<pb n="35" facs="tcp:58413:20"/>
+of Defence, nor diſen<g ref="char:EOLhyphen"/>gage himſelf from the Bran<g ref="char:EOLhyphen"/>ches of the Trees; I with my drawn Sword gave him three thruſts through the Body, e're I could (through exceſs of my blind paſſion) obſerve that he called me by my name, or tell me who he was. At length falling at my feet, I obſer<g ref="char:EOLhyphen"/>ved it was my intimate and faithful <hi>Bennato,</hi> whom I had treated with this inhu<g ref="char:EOLhyphen"/>mane ſeverity. I was ſo ſurpriſed, that I remained dying as he, who with a fee<g ref="char:EOLhyphen"/>ble voice requeſted me to cauſe a Confeſſor to come unto him. I had loſt all
+<pb n="36" facs="tcp:58413:21"/>
+ſenſe knowing the Crime I had committed, and could not but with ſome pain hearken to his laſt words, which proved his Innocence and my Injuſtice. <hi>My dear Philander,</hi> (ſaid he) is it poſſible that Heaven ſhould conſent, that the Sword of my beſt Friend ſhould give my mortal Wound?</p>
+            <p>In what has your <hi>Benna<g ref="char:EOLhyphen"/>to</hi> offended, that you with ſo much cruelty ſhould re<g ref="char:EOLhyphen"/>ſolve to avenge your ſelf? But I wrongfully complain againſt you; I forgive you my Death, it was a ſcruple ill-grounded that I had, that being alone near <hi>Auriſtella,</hi>
+               <pb n="37" facs="tcp:58413:21"/>
+(and your Door being ſhut) you might not ſuſpect her hnour or my fidelity, which I call Heaven to Witneſs, has alwaies been for you in<g ref="char:EOLhyphen"/>violable—Death gave him no more time, but ſhut his Eyes; he yielded up his Soul within my arms. I know not how, that mine took not the ſame way, be<g ref="char:EOLhyphen"/>ing ſo oppreſſed with Grief and Repentance. I was at length conſtrain'd to quit this unfortunate Corps, and went to <hi>Auriſtellas</hi> Apart<g ref="char:EOLhyphen"/>ment, where I found her not, nor in all the Houſe, through which I heard nothing but the cries of her Maids, who
+<pb n="38" facs="tcp:58413:22"/>
+were ſeeking their Miſtreſs, when ſuddenly one of them told me ſhe had caſt her ſelf (in her Shift) out of the win<g ref="char:EOLhyphen"/>dow into the ſtreet, having been inform'd of the death of innocent <hi>Bennato,</hi> fearing that in my furious indigna<g ref="char:EOLhyphen"/>tion, I might not give her time to juſtifie her ſelf. That ſame Maid related alſo to me, how <hi>Auriſtella</hi> had o<g ref="char:EOLhyphen"/>blig'd him to do what he did, becauſe that hearing of the knocks I gave at the Gate (which one of my peo<g ref="char:EOLhyphen"/>ple had ſhut unawares) ſhe apprehended that I would enter into ſome juſt ſuſpiti<g ref="char:EOLhyphen"/>on of her. Ah! dear <hi>Bennato,</hi>
+               <pb n="39" facs="tcp:58413:22"/>
+ſaid ſhe, wherefore did your prudence permit it ſelf to be governed by the ill ground<g ref="char:EOLhyphen"/>ed fears of a Woman? I was a thouſand times about to take vengeance on my ſelf, of the tragical end of my friend, but Heaven thought it not fit, that it might re<g ref="char:EOLhyphen"/>ſerve me for ſomething more cruel.</p>
+            <p>I could not yet have any news of <hi>Auriſtella,</hi> whom I ſought in vain, therefore I concluded 'twas beſt for me to hide my ſelf; ſo leaving the Houſe in that confuſion, (as cannot eaſily be imagined) I went to the Convent of the <hi>Carthuſian</hi>
+               <pb n="40" facs="tcp:58413:23"/>
+Fathers, who recieved me with all poſſible humanity, and ſecur'd my unhappy Life, which has been deſti<g ref="char:EOLhyphen"/>ned to infinite troubles, a thouſand times worſe than death it ſelf; I was private<g ref="char:EOLhyphen"/>ly viſited by my particular friends, who took all ima<g ref="char:EOLhyphen"/>ginable pains to repreſent my innocence, and procure my pardon.</p>
+            <p>
+               <hi>Auriſtella</hi> was retired to a Nunnery, as ſoon as ſhe re<g ref="char:EOLhyphen"/>covered her fall into the ſtreet, which was not with<g ref="char:EOLhyphen"/>out much hurt, and with ſome difficulty firſt got, as well as ſhe could, to a Houſe which ſhe ſaw open, and
+<pb n="41" facs="tcp:58413:23"/>
+there diſcovered to the ma<g ref="char:EOLhyphen"/>ſter what ſhe was, who cha<g ref="char:EOLhyphen"/>ritably received her. But the next morning they were informed with what dili<g ref="char:EOLhyphen"/>gence the Officers of Juſtice ſearched after her and me, and therefore they thought it convenient to lead her to a Nunnery. I had no<g ref="char:EOLhyphen"/>tice thereof all moſt as ſoon as it was done, which gave me as much comfort as I was capable to recieve, but Heaven would not that I ſhould long have it, and I was but at the beginning of my miſeries.</p>
+            <p>All theſe mortal diſcon<g ref="char:EOLhyphen"/>tents ſo ſtrongly ſeiz'd on
+<pb n="42" facs="tcp:58413:24"/>
+               <hi>Auriſtellas</hi> heart (together, with the diſmal bruiſes ſhe receiv'd by her fall) that ſhe fell into a great ſickneſs, her memory perpetually tor<g ref="char:EOLhyphen"/>menting her, with the con<g ref="char:EOLhyphen"/>ſideration to find her ſelf expoſed to the evil tongues of the people, gueſſing at what riſque her Honour and Reputation was ſubjected; ſo that in few dayes there was a period put to her un<g ref="char:EOLhyphen"/>happy Life. But firſt ſhe ap<g ref="char:EOLhyphen"/>plied her ſelf to the ſuperior of that Nunnery, to whom ſhe gave ſealed, written with her own hand, and reque<g ref="char:EOLhyphen"/>ſted that it might be inſtant<g ref="char:EOLhyphen"/>ly delivered unto me; I re<g ref="char:EOLhyphen"/>ceived
+<pb n="43" facs="tcp:58413:24"/>
+it about the ſame time as I heard of the deplo<g ref="char:EOLhyphen"/>rable news of her death. Nothing is capable to ex<g ref="char:EOLhyphen"/>preſs the griefs of my Soul, the alination of its Faculties, and the ſubverſion of my Senſes: I was a long time (as it were) hovering be<g ref="char:EOLhyphen"/>twixt death and life, which was protracted onely to bring eternal afflictions on me. And to conclude this mournful Diſcourſe, be<g ref="char:EOLhyphen"/>hold what remains to be further known in the pro<g ref="char:EOLhyphen"/>per terms of the Letter to me.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="44" facs="tcp:58413:25"/>
+                  <head>Auriſtella <hi>to</hi> Philander.</head>
+                  <p>THE Day is come (my Dear <hi>Philander</hi>) on which I muſt pay to Death an inevitable Debt: 'Tis an execution of that rigour, which no perſon can be ex<g ref="char:EOLhyphen"/>empted from. Although I have reſentments of all that humane weakneſs can on ſuch occaſions pro<g ref="char:EOLhyphen"/>duce; he who ſtands ready to be my Judg, truly knows that the greateſt torment which I ſuffer, is to be ſe<g ref="char:EOLhyphen"/>parated from your amiable Company; and my chiefeſt ſadneſs, is not able once
+<pb n="45" facs="tcp:58413:25"/>
+more to ſee you, to bid you farewel, to clear up your ſu<g ref="char:EOLhyphen"/>ſpitions, and to aſſure you of my fidelity; which has been inviolable, ever ſince the happy day of our Mar<g ref="char:EOLhyphen"/>riage, to the laſt moment of my Life. And ſince I am come to the time to ſpeak the truth which relates to the Eternal Salvation of my Soul. It is but juſt <hi>dear Phi<g ref="char:EOLhyphen"/>lander,</hi> that you be infor<g ref="char:EOLhyphen"/>med as well as the whole world, of a Secret which I have ſo long concealed to the prejudice of my Con<g ref="char:EOLhyphen"/>ſcience. Read carefully this Letter, and you will pardon my offence, (if it be true
+<pb n="46" facs="tcp:58413:26"/>
+that it was done againſt your Honour) to have done a thing which was executed againſt my conſent, againſt my will, and before vve vvere married. I perſvvade my ſelf that you vvill do Ju<g ref="char:EOLhyphen"/>ſtice to my Innocence, that my Reputation be not ſtai<g ref="char:EOLhyphen"/>ned either before you, or before thoſe vvho ſhall have notice of my misfortune.</p>
+                  <p>I doubt not but you ſtill remember the unhappineſs which ſo much afflicted our Family on the day you came to <hi>Toledo,</hi> which poſ<g ref="char:EOLhyphen"/>ſibly might prognoſticate the preſent diſgraces. You may call to mind alſo the
+<pb n="47" facs="tcp:58413:26"/>
+diligence which was uſed to find the Aſſaſſinate of our <hi>Andreo</hi> the <hi>Biſcaner,</hi> which then proved unſucceſsful; and ſtill might be ſo to the Day of the laſt Judgment, if this which is my laſt did not oblige me to declare, and proteſt that my unhappy Self was his Murdreſs; his infamous Treachery will I hope obtain my pardon at the Sovereign Tribunal, next to my extream and hearty repentance for my ſins. <hi>Know then dear Philander,</hi> that no ſooner had the <hi>Biſ<g ref="char:EOLhyphen"/>caner</hi> been informed of my Fathers Return; and that our Marriage was conclu<g ref="char:EOLhyphen"/>ded
+<pb n="48" facs="tcp:58413:27"/>
+on, but he fell ſick of a Feaver, which in the begin<g ref="char:EOLhyphen"/>ning ſeemed very dange<g ref="char:EOLhyphen"/>rous: my Parents who lo<g ref="char:EOLhyphen"/>ved him as their own Child, procured the moſt renown<g ref="char:EOLhyphen"/>ed Phiſitians of the City to attend him, who could find no remedy that could re<g ref="char:EOLhyphen"/>lieve him, and ſaid his Ma<g ref="char:EOLhyphen"/>lady proceeded from an ex<g ref="char:EOLhyphen"/>ceſs of Melancholy, which made our whole Family ve<g ref="char:EOLhyphen"/>ry mournful for him. The Night before you came thi<g ref="char:EOLhyphen"/>ther, he made me know (to my utter ruine) what it was that reduced him to that miſerable condition —</p>
+                  <p>
+                     <pb n="49" facs="tcp:58413:27"/>It was about Midnight (yet I was not aſleep) that I heard ſome walking in my Chamber, where to my ſorrow I was that Night without a Bed-fellow, and opening the Curtains of my Bed, I ſaw our ſick <hi>Biſcaner</hi> appear, whom I ſuppoſed to have ſome <hi>Delirium</hi> by the exceſs of his Feaver: and I not ſeeming to be angry for his audacious coming into my Chamber (and ſo late at night when I was laid in Bed) ſpoke to him in as af<g ref="char:EOLhyphen"/>fable a manner as if I had been his Siſter, and far (Hea<g ref="char:EOLhyphen"/>ven knows) from ſuſpect<g ref="char:EOLhyphen"/>ing any ill deſign againſt
+<pb n="50" facs="tcp:58413:28"/>
+me. But he with a profound ſigh, looking on me with a furious eye, ſpake to me in theſe Terms—</p>
+                  <p>It is moſt certain <hi>Auri<g ref="char:EOLhyphen"/>ſtella,</hi> that the grief I feel can have no remedy but from your hands, in which is my Life: You have obli<g ref="char:EOLhyphen"/>gations enough which I hope will deter you from being ungrateful to me for the good offices and ſervi<g ref="char:EOLhyphen"/>ces I have rendred you, and in a time too, when your cruel Father treated me with ſo much rigour. I waited not for a requital of the pains I took in your Educa<g ref="char:EOLhyphen"/>tion, nor of that which I
+<pb n="51" facs="tcp:58413:28"/>
+ſuffered in his abſence, to<g ref="char:EOLhyphen"/>wards the ſubſiſtance of his Family, with honour; all which I did with a kind of delight and ſatisfaction; in hopes nevertheleſs of ſome acknowledgment; at leaſt to have granted me to paſs my remaining daies in the beloved Company of the fair <hi>Auriſtella,</hi> which Joy I am about to be deprived of with ſo much Injuſtice. This therefore is my great<g ref="char:EOLhyphen"/>eſt Malady, which encreaſes in proportion to the ap<g ref="char:EOLhyphen"/>proaching time, to ſee you in the power of another: Wherefore I come reſolv'd, not to leave your Chamber
+<pb n="52" facs="tcp:58413:29"/>
+without the recovery of my health, &amp; aſſurance that you ſhall be mine: If I loſe my Life, let me be your Huſ<g ref="char:EOLhyphen"/>band firſt, for juſt Heaven has reſerved that Honour and good Fortune for me alone. I expect no other anſwer from you, but the giving me your hand: You cannot defer it, nor do I fear you are able to find the means to avoid it, ſince the accompliſhment of my de<g ref="char:EOLhyphen"/>ſires is now in my power; for I will deprive you of Life with this Poniard in the ſame inſtant, that you ſhall make the leaſt reſiſtance to give me ſatisfaction. So he
+<pb n="53" facs="tcp:58413:29"/>
+took his Poniard from his Cincture, which he preſen<g ref="char:EOLhyphen"/>ted to my Throat<g ref="char:punc">▪</g> which ſo much affrighted me, that it was a long time e're my Tongue could pronounce any thing; ſometimes con<g ref="char:EOLhyphen"/>ſidering the peril of my Ho<g ref="char:EOLhyphen"/>nour, and then I was ſur<g ref="char:EOLhyphen"/>priſed with exceſs of fear of my death, which is natural to our Sex; which made me thoughtful either to avoid my Death, or put my Cha<g ref="char:EOLhyphen"/>ſtity out of danger. To di<g ref="char:EOLhyphen"/>vert his reſolution without reproaching his Treachery, I endeavoured to ſweeten him by the tendreſt Words could utter, and promiſed
+<pb n="54" facs="tcp:58413:30"/>
+him with a thouſand Oaths I would be his Wife; and believing that he would at preſent content himſelf by my permitting him my hand (as he at firſt demand<g ref="char:EOLhyphen"/>ed) I gave it him, but he no ſooner had it, e're I found my ſelf drawn into his arms, and my ſtrength failing me in the affright I was in, I could not prevent his diſpo<g ref="char:EOLhyphen"/>ſal of me as he pleaſed: But juſt Heaven (to which all the complaints of my afflicted Soul aſcended) did not per<g ref="char:EOLhyphen"/>mit the chaſtiſement which this offence and Treachery merited to be long deferred, for he received it from my
+<pb n="55" facs="tcp:58413:30"/>
+own hands with his own proper Poniard. The re<g ref="char:EOLhyphen"/>ſentment of my ſhame ani<g ref="char:EOLhyphen"/>mating my weakneſs with an undaunted courage. As ſoon as I found him faſt a<g ref="char:EOLhyphen"/>ſleep I took my revenge, and ſeizing of that fatal Wea<g ref="char:EOLhyphen"/>pon which before had over<g ref="char:EOLhyphen"/>awed me — I thruſt it through his heart, and by many other ſtabs, which I redoubled, I made a large gap for his perfidious Soul to paſs; and without being heard, I wrapt his miſera<g ref="char:EOLhyphen"/>ble Corps in my ſheets drencht in his own Bloud, and dragg'd it out, and left it near to our Houſe. This
+<pb n="56" facs="tcp:58413:31"/>
+was not the end of my diſ<g ref="char:EOLhyphen"/>graces, for when I ſaw you come they did afreſh renew; and if I had not been pre<g ref="char:EOLhyphen"/>vented by the fears of pu<g ref="char:EOLhyphen"/>niſhment in another world, I had made the ſame Sacri<g ref="char:EOLhyphen"/>fice of my own life; becauſe I was afraid, and did believe I could never hide my in<g ref="char:EOLhyphen"/>famy from you. But in this deſperate imagination, I found ſome comfort in thinking that <hi>Mariana</hi> might be now very uſeful to me, who having been bred up with me from her Infancy, bore part in my moſt ſecret thoughts and actions; &amp; yet I knew not how to declare
+<pb n="57" facs="tcp:58413:31"/>
+to her what was come to paſs, till the fatal Melan<g ref="char:EOLhyphen"/>cholly into which I was plunged, and in a time when I ſhould ſhew the greateſt joy, gave her the firſt occa<g ref="char:EOLhyphen"/>ſion to ask who did conjure me, with much earneſtneſs, to let her know the true cauſe of it, ſo that I ſaw my ſelf obliged to tell her all without diſguiſing the leaſt particular, and being not able, but by her means to find any remedy for my af<g ref="char:EOLhyphen"/>fliction; I put my life and honour into her hands, and after I had importuned her by all that I found the moſt powerful and ſacred
+<pb n="58" facs="tcp:58413:32"/>
+to perſwade her; (as much as my neceſſity and the time would permit) I made her at length to condeſcend to my requeſt, which was to put her ſelf in my place on my Wedding-night, being certain of her honeſty and virtue: I believed, I might by that deceit prevent the ſuſpition which you muſt perceive by me, and I for<g ref="char:EOLhyphen"/>bear to apprehend—</p>
+                  <p>
+                     <hi>Mariana</hi> with great per<g ref="char:EOLhyphen"/>ſwaſions, and not without much difficulty, conſented, not only for the loſs of what ſhe held the deareſt thing in the World, but for the un<g ref="char:EOLhyphen"/>certainty of ſucceſs in this
+<pb n="59" facs="tcp:58413:32"/>
+ſubtle Affair. But at laſt ſhe reſolvd to extricate me from the Labyrinth I was in, and put off all other conſidera<g ref="char:EOLhyphen"/>tions; which did ſucced as I hoped it would; for as ſoon as you came to Bed, and the Lights with-drawn, I deſired you to permit me to make a prayer before an Image in my Chamber, to perform a vow I had made. I aroſe, and <hi>Mariana,</hi> whom I had concealed, was ready, and eaſily took fit time to put her ſelf in my place. But after ſome time, ſeeing ſhe (contrary to the orders I gave) remained with you, I ſuſpected ſhe was well plea<g ref="char:EOLhyphen"/>ſed
+<pb n="60" facs="tcp:58413:33"/>
+to ſtay in your Arms, or elſe ſhe migt alſo fall a<g ref="char:EOLhyphen"/>ſleep; and hearing that the clock ſtruck three, I began to conclude I was in ex<g ref="char:EOLhyphen"/>tream peril, conſidering that it was impoſſible to awake her &amp; you not perceive me. When taking counſel from my jealouſie, I deſcended ſoftly into the Hall, where I put as many combuſtible things as I could find, and placed them next the Tapi<g ref="char:EOLhyphen"/>ſtry, and with a Candle put all in a flame, and quickly returned to your Chamber, aſſuring my ſelf that the confuſion which this acci<g ref="char:EOLhyphen"/>dent would put you in,
+<pb n="61" facs="tcp:58413:33"/>
+would not permit you to make any reflection or nice remembrances, and that hearing my voice, you would immediately go to the aſſi<g ref="char:EOLhyphen"/>ſtance of the Houſe, which accordingly you did, and ſo you left me alone with <hi>Mariana,</hi> ſo tranſported with anger againſt her, for the too long time ſhe ſtaid with you, for the diſorder which ſhe was the cauſe of, and the loſs which muſt neceſſary follow; that I was almoſt reſolved to thruſt her through the Body with your Sword. To theſe con<g ref="char:EOLhyphen"/>ſiderations, I joyned ſuch as might ſucceed, apprehen<g ref="char:EOLhyphen"/>ding
+<pb n="62" facs="tcp:58413:34"/>
+the conſequence of what had paſſed between you and her, at leaſt to find my ſelf a continual ſlave to the faith and inconſtancy of a maid, which neceſſity alone had ſubjected to my ſervice: In fine, I went down with her to the Well, where our ſervants were bu<g ref="char:EOLhyphen"/>ſie to draw Water, and whilſt they went and came, I be<g ref="char:EOLhyphen"/>lieving I had an happy op<g ref="char:EOLhyphen"/>portunity to diſentangle my ſelf from the confuſion I was in, I commanded her to draw ſome Water alſo, and obſerving carefully, that none perceived me, I with much eaſe puſhed her
+<pb n="63" facs="tcp:58413:34"/>
+into the Well, where lea<g ref="char:EOLhyphen"/>ving her ſome time ſtrug<g ref="char:EOLhyphen"/>ling with her laſt Agony, and ſuppoſing her to be cer<g ref="char:EOLhyphen"/>tainly drowned, diſſem<g ref="char:EOLhyphen"/>bling my ingratitude and cruelty, I made loud Out<g ref="char:EOLhyphen"/>cries, and ſhed a Torrent of Tears (ſo well feigned) that you as well as the reſt of the Family believed that no one could be more af<g ref="char:EOLhyphen"/>flicted than I appear to be.</p>
+                  <p>That horrible offence, and this abominable ſin, wherewith I have ſo highly offended Heaven, have drawn down all the miſeries and juſt puniſhments of your unhappy <hi>Auriſtlla,</hi> who
+<pb n="64" facs="tcp:58413:35"/>
+ſtill loved and reſpected you with all imaginable fidelity and conſtancy, of which Truth both Heaven and Earth are Witneſſes.</p>
+                  <p>Thus my <hi>dear Philander,</hi> I requeſt of you (as the laſt Grace you can confer on me) to believe that your Reputation was never blaſt<g ref="char:EOLhyphen"/>ed by any deportment of mine. <hi>I</hi> could have concea<g ref="char:EOLhyphen"/>led what <hi>I</hi> now inform you of, but <hi>I</hi> would that by the ſincerity of this Declaration you may the better judg of my Words, which is all the conſolation that remains in my afflicted heart; and <hi>I</hi> recommend to you to do ſuch things as a Zeal ſo
+<pb n="65" facs="tcp:58413:35"/>
+Chriſtian-like, as yours will both prompt and oblige you to, but more particu<g ref="char:EOLhyphen"/>larly that you would make ſatisfaction (as much as is poſſible for you to do) for thoſe two cruel Murders, which is the only thing that does and ought to tor<g ref="char:EOLhyphen"/>ment me in this World.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Auriſtella</hi> died the ſame day, and I immediatly left <hi>Seville,</hi> hoping that Heaven would be ſo propitious to take me out of this Land of the Living, where now <hi>I</hi> write this Tragical Hiſtory, that <hi>I</hi> may be ſoon rejoyn<g ref="char:EOLhyphen"/>ed to my amiable and faith<g ref="char:EOLhyphen"/>ful, though unhappy <hi>Au<g ref="char:EOLhyphen"/>riſtella.</hi>
+            </p>
+         </div>
+         <div type="story">
+            <pb n="66" facs="tcp:58413:36"/>
+            <head>The Pleaſant Story of the Life of <hi>PAUL</hi> of <hi>Sigovia.</hi>
+            </head>
+            <p>I am of <hi>Sigovia,</hi> my Fa<g ref="char:EOLhyphen"/>thers Name is <hi>Clement Paul,</hi> a Native of the City; (Heaven take his Soul) to ſpeak the truth, he was by Trade a Barber; he marri<g ref="char:EOLhyphen"/>ed <hi>Aldonce Saturna</hi> of <hi>Revola</hi> who had the reputation not to be the beſt Chriſtian of that Country; and there might be made very plea<g ref="char:EOLhyphen"/>ſant Remarks on both their Lives, for he paſſed for a dextrous Thief, and ſhe for
+<pb n="67" facs="tcp:58413:36"/>
+the moſt expert perſon of the Kingdom in the Traf<g ref="char:EOLhyphen"/>fick of Maidenheads; the breach whereof ſhe would ſo well repair, that they ſeemed better than whole-new; but I will not ſo much enlarge on the Sub<g ref="char:EOLhyphen"/>ject of their many famous Exploits, that I may the ſooner give you a particular account of my own.</p>
+            <p>I was early put to School, where I contracted friend<g ref="char:EOLhyphen"/>ſhip with the ſon of <hi>Don A<g ref="char:EOLhyphen"/>lonſo Coronello,</hi> a perſon of Quality, which ſerved me not a little to parry againſt the ſubtle calumnies which the Schollars made at me;
+<pb n="68" facs="tcp:58413:37"/>
+ſome calling me <hi>Don</hi> of the <hi>Lance,</hi> and others <hi>Don</hi> of the <hi>Wind;</hi> in fine, I was their Butt at which they ſhot a thouſand raileries of this na<g ref="char:EOLhyphen"/>ture, and I had not wit e<g ref="char:EOLhyphen"/>nough to repel them, as you may judg by a ſimpli<g ref="char:EOLhyphen"/>city I am to relate to you. One day as I was walking the Street with my friend <hi>Don Diego Coronello,</hi> we met a man named <hi>Pontius Da<g ref="char:EOLhyphen"/>guira,</hi> a man of publick em<g ref="char:EOLhyphen"/>ploy; <hi>Don Diego</hi> bid me call him <hi>Pontius Pilate,</hi> which to divert him I did, but the man became ſo fiercely an<g ref="char:EOLhyphen"/>gry, that drawing his Knife purſued me to my Maſters
+<pb n="69" facs="tcp:58413:37"/>
+Houſe, where I ſaved my ſelf, but to appeaſe him, my maſter luſtily whipt me, ask<g ref="char:EOLhyphen"/>ing at every laſh he gave me, will you ſirrah ſay <hi>Pon<g ref="char:EOLhyphen"/>tius Pilate</hi> again? you may believe I promiſed I would not. This made ſo dread<g ref="char:EOLhyphen"/>ful an impreſſion on my ſpirits, that the day follow<g ref="char:EOLhyphen"/>ing, I being called to ſay my Prayers, inſtead of ſay<g ref="char:EOLhyphen"/>ing (as in the <hi>Creed) he ſuf<g ref="char:EOLhyphen"/>fered under Pontius Pilate,</hi> I ſaid <hi>he ſuffered under Ponti<g ref="char:EOLhyphen"/>us Daguira:</hi> Judg you now if this ſimplicity made them not to laugh enough at me?</p>
+            <p>It happened not long af<g ref="char:EOLhyphen"/>ter (the Time of <hi>Carnival</hi>)
+<pb n="70" facs="tcp:58413:38"/>
+a King of the Schollars was to be made; (a pleaſant cuſtom in thoſe Parts) and the Lot fell on me, and therefore I requeſted my Parents to ſend me a pro<g ref="char:EOLhyphen"/>portionable Equipage for my new Dignity. The day being come for our public <hi>Parade,</hi> I appeared mounted on a Horſe, who through his very weakneſs rather than civility, ſo walked as if he was making reverence; he had his Flank like a Mon<g ref="char:EOLhyphen"/>key, and a ſwelling like a Camel, being blind and without a Tail; in fine, mo<g ref="char:EOLhyphen"/>ving from one ſide to ano<g ref="char:EOLhyphen"/>ther, with the gravity of a
+<pb n="71" facs="tcp:58413:38"/>
+Phariſee, and my compani<g ref="char:EOLhyphen"/>ons walking on foot near me, we came to the Market-place amongſt the Fruite<g ref="char:EOLhyphen"/>rers, my Horſe being almoſt famiſhed, greedily ſeized on a Cabbage, and almoſt made but one ſwallow of it: The accurſed Fruiterer (to whom it appertained) began with full-mouth to rail at us, and in an inſtant the reſt being alarmed, pel<g ref="char:EOLhyphen"/>ted us with Stones, Pears, Turnips and a thouſand o<g ref="char:EOLhyphen"/>ther parts of Traſh vvere hurled at the poor King; I vvould have quitted my Horſe (judging that this Combate vvould be beſt de<g ref="char:EOLhyphen"/>termined
+<pb n="72" facs="tcp:58413:39"/>
+afoot) but my Horſe receving a cruel blow made him reel into a Jakes, into vvhich vve both fell; my Comrades in the mean time vvith ſtones repulſed the Fruiterers, and vvound<g ref="char:EOLhyphen"/>ed tvvo of them in the head; at length the Officers of Ju<g ref="char:EOLhyphen"/>ſtice came and ſeized ſome of them and ſome of the Schollars, and diſarmed them, for they had Svvords and Poniards as the Kings Guards. I novv vvas got up again out of the filth in a ſtinking poſture, as you may imagine, and <hi>I</hi> threvv into a Houſe my Arms, my Hat and my Mantle to have
+<pb n="73" facs="tcp:58413:39"/>
+them waſhed. Then an Officer of Juſtice loudly cried, deliver your Arms, I replied I had none offenſive but only againſt the Noſe. He would carry me to Pri<g ref="char:EOLhyphen"/>ſon, but knowing not what part to take me, he was con<g ref="char:EOLhyphen"/>ſtrained to let me alone; I returned to <hi>Don Alonſo Coro<g ref="char:EOLhyphen"/>nello</hi> with his Son, who was preſerved in the Battel: His Father ſoon after that took a reſolution to place his ſon Penſioner, with a Graduate named <hi>Cabra,</hi> who in his Houſe had the Tuition of ſome young Gentlemen of Quality, and got my Parents to conſent that I ſhould be his ſervant.</p>
+            <p>
+               <pb n="74" facs="tcp:58413:40"/>We were Liſted the firſt <hi>Sunday</hi> after <hi>Eaſter,</hi> under the power of a Living Fa<g ref="char:EOLhyphen"/>mine. The ſaid Segnior <hi>Ca<g ref="char:EOLhyphen"/>bra</hi> had nothing great but Stature; he had a very lit<g ref="char:EOLhyphen"/>tle head, covered with red hair; and it is ſufficient to ſay according to the Pro<g ref="char:EOLhyphen"/>verb, <hi>no good Cats or Dogs that are red;</hi> his eyes were ſunk into the hindermoſt part of his head, inſomuch that he ſeemed to look through a Trunk; his Noſe half eaten by Scurf, which came not to paſs through Debauchery becauſe that would coſt money: His Muſtachios were thick a<g ref="char:EOLhyphen"/>bout
+<pb n="75" facs="tcp:58413:40"/>
+his mouth, whieh ſeem<g ref="char:EOLhyphen"/>ed to have a deſire to de<g ref="char:EOLhyphen"/>vour them, ſo famiſhed it did appear: He had ſeveral Teeth wanting, which doubtleſs he had cauſed to be drawn to ſet to adorn the Bell of an itinerant Tooth-drawer: His Throat was as long as an <hi>Auſtritchs;</hi> the Apple whereof ſeemed ſo large as if neceſſity had forced it out to ſee for Vi<g ref="char:EOLhyphen"/>ctuals; his Arms drye; his Hands as ſhrivled Loppings of Vines, viewing him from the Waſt downwards: He ſeemed like a Fork or Com<g ref="char:EOLhyphen"/>paſs, ſo long and magre did his Thighs appear when he
+<pb n="76" facs="tcp:58413:41"/>
+moved; His Bones reſoun<g ref="char:EOLhyphen"/>ded like the Ivory Clickets of a Leopard, which they uſe to give People notice to avoid them; His Tongue was ſtammering; his Voice whining; his Beard long, which was never ſhaved to ſave charges, ſaying he had ſo much repugnance that a Barbers hand ſhould touch his Face that he had rather die than be ſhaved: He wore in Summer a Bonnet which was nibled by Mice, which heretofore might be Cloth, and was lined with the ſwea<g ref="char:EOLhyphen"/>ty Greece which fell from his Head: many People ſaid that his Veſt was mira<g ref="char:EOLhyphen"/>culous,
+<pb n="77" facs="tcp:58413:41"/>
+becauſe one could not divine what colour it had; ſome ſeeing it ſo bear, ſaid it was made of Frogs skins; others ſaid it was an illuſion which near hand ſeemed black, and at a di<g ref="char:EOLhyphen"/>ſtance blew; it was never girt about him; and he had no Cuffs or Band: His long Hair that covered his Veſt (as narrow and ſhort as it was) made him look like a true Lacquey of Death; in his miſerable Chamber he conjured the Rats, for fear they ſhould eat his old Rags; His Bed was on the Ground on which he lay on the brink of it, that he might
+<pb n="78" facs="tcp:58413:42"/>
+not wear out his Bed-cloths; In fine, one may call him the Prototype of Poverty and Miſery.</p>
+            <p>
+               <hi>Don Diego</hi> and I were de<g ref="char:EOLhyphen"/>livered into the hands of this Phantoſm, who appoin<g ref="char:EOLhyphen"/>ted a Chamber: The time of Dinner being come, the Gentlemen ſet themſelves at a Table, in a place no lar<g ref="char:EOLhyphen"/>ger than the half of a Buſh<g ref="char:EOLhyphen"/>el, which ſerved as a Refecto<g ref="char:EOLhyphen"/>ry: I ſoon obſervd that there were no Cats; an old Do<g ref="char:EOLhyphen"/>meſtick (whoſe leanneſs ma<g ref="char:EOLhyphen"/>nifeſted that he was a Retai<g ref="char:EOLhyphen"/>ner to this Inne) perceiving that I ſeemed aſtoniſhed, ſaid to me (half weeping)
+<pb n="79" facs="tcp:58413:42"/>
+who told you that Cats are friends to Faſtings and Pe<g ref="char:EOLhyphen"/>nances? I perceive you are but a Novice here: This I proteſt began much to af<g ref="char:EOLhyphen"/>flict me, and much the more when I certainly perceived, that ſuch as had for ſome time been in this Houſe had Complexions which looked as if daubed with Diachilon.</p>
+            <p>The Segnior <hi>Cabra</hi> pla<g ref="char:EOLhyphen"/>ced himſelf at the Table, and gave the Benediction, after which an eternal Meal was made, which had nei<g ref="char:EOLhyphen"/>ther beginning nor end. — There was brought us in Wooden Ladles a Broth ſo clear, that if <hi>Narciſſus</hi> had
+<pb n="80" facs="tcp:58413:43"/>
+taken it, he might have been in more danger than at the Fountain. I conſi<g ref="char:EOLhyphen"/>dered what pains the poor fingers took in ſwim<g ref="char:EOLhyphen"/>ming in it, and to dive to pull up from the bottom of the Ladle one Orphelim or only Peaſe; at each gulph which <hi>Cabra</hi> ſwallowed; Ah! (ſaid he) It's ſure enough that there is nothing better than the ſup, let People ſay what they will, all the reſt is but ſuperfluity and Gor<g ref="char:EOLhyphen"/>mandiſe; and when he had ended, 'tis this ſaid he that gives Health, and ſharpens the Wit; the Devil take thee (ſaid I to my ſelf) and then I beheld a Boy come in
+<pb n="81" facs="tcp:58413:43"/>
+(whom I took for a half Ghoſt, ſo lean and unfleſht he was) carrying a Diſh in, which was a morſel of meat, which looked as if it had been cut from his Carkaſs, with a few Turnips about it; <hi>Cabra</hi> cries out in ſeeing it, Hovv! hovv! here are Tur<g ref="char:EOLhyphen"/>nips? I ſvvear nothing in the World can compare vvith this Chear; eat my Lads, I am much pleaſed vvhen I ſee you eat vvell, then he gave to each of them ſo great a part, that their Nails and Teeth had pre<g ref="char:EOLhyphen"/>poſſeſt it, and none left for their longing Stomacks: O admirable entertainment
+<pb n="82" facs="tcp:58413:44"/>
+for people half dead vvith hunger: Thus vvas the vvorthy Repaſt ended, of vvhich there remaining a little skin and a fevv Bones; here ſaid <hi>Cabra</hi> (very grave<g ref="char:EOLhyphen"/>ly) preſerve the reſt for the ſervants, they muſt eat too as vvell as their maſters, vve vvill not have all for our ſelves. May the Devil con<g ref="char:EOLhyphen"/>found thee with all thou haſt eaten ſaid I, thee who makeſt ſo cruel Threats to my Bowels: After Grace he ſaid to his Penſioners, go and divert your ſelves in the Walk, and uſe ſome exer<g ref="char:EOLhyphen"/>ciſe till two a Clock, that what you have eaten may
+<pb n="83" facs="tcp:58413:44"/>
+not make you ſick; at which I could not forbear to laugh, which obliged him to give me a ſharp re<g ref="char:EOLhyphen"/>primand, to which he ad<g ref="char:EOLhyphen"/>ded four or five old Sen<g ref="char:EOLhyphen"/>tences; then we ſate our ſelves at Table, and I ſeeing the miſerable report, againſt which my Belly demanded Juſtice; but being lately bet<g ref="char:EOLhyphen"/>ter fed, and ſtronger than the others, I pull'd the Diſh to me, which all had ſeiz'd on, and of three morſels I ſwallowed two, which made them grumble; and <hi>Cabra</hi> entring at the noiſe was made; how now, ſaid he, ate as brethren, ſince Hea<g ref="char:EOLhyphen"/>ven
+<pb n="84" facs="tcp:58413:45"/>
+gives you enough, do not quarrel; is there not ſufficient for all of you? I ſwear, to ye that there was one of us, who was a <hi>Jaſ<g ref="char:EOLhyphen"/>coner,</hi> that had ſo utterly for<g ref="char:EOLhyphen"/>got how and through what one eats, who holding a lit<g ref="char:EOLhyphen"/>tle morſel of Skin, that fell to his ſhare, put it twice to his Eyes and Hands, the third time had much adoe to conduct it to his Mouth: Then I took a pot full of Water to drink, but ſcarcely had I put it to my Lips, but the half Ghoſt Boy (I ſpoke of) took it from me, and made it paſs from hand to hand, as delicately as one
+<pb n="85" facs="tcp:58413:45"/>
+takes the Wine after the Communion. I then aroſe with much grief, to find my ſelf in ſuch a place, where one drinks to the health of the Bowels, altho' nothing can come to them to do reaſon for it. Altho' I had not eaten, I took a fancy to uneat (that is to ſay, to do my neceſſities) and asked of an ancient Gueſt, where the convenient place was, he re<g ref="char:EOLhyphen"/>plied, he believed there was none, and that for one on<g ref="char:EOLhyphen"/>ly time that this might hap<g ref="char:EOLhyphen"/>pen, whilſt I ſtaid here, I might make uſe of any Poſt I pleaſed; and that he him<g ref="char:EOLhyphen"/>ſelf had had no need theſe
+<pb n="86" facs="tcp:58413:46"/>
+two moneths, from the day he firſt entred, and then he did (as well as I perhaps) only emply what he had re<g ref="char:EOLhyphen"/>ceived the Eve before. O how could I expreſs my ſor<g ref="char:EOLhyphen"/>row! It was ſo great, that conſidering the little that ſhould for the future come into my Body, I durſt never let any thing out, what de<g ref="char:EOLhyphen"/>ſire ſoever I ſhould have.</p>
+            <p>
+               <hi>Don Diego</hi> ask'd me what he ſhould ſay to his Bowels, to perſwade them that he had eaten, which moſt aſ<g ref="char:EOLhyphen"/>ſuredly would not believe him. The ills that Inanition cauſes, were more frequent in this Houſe than thoſe
+<pb n="87" facs="tcp:58413:46"/>
+which too much repletion cauſes in another. But now 'twas Supper-time; there was ſerved up a little of the Maſters Name which is <hi>Goat Roaſted.</hi> Did the Devil e<g ref="char:EOLhyphen"/>ver invent ſuch a Ragouſt? He told us that nothing was more wholeſome or profi<g ref="char:EOLhyphen"/>table, than to eat little at ſupper, and cited a million of Aphoriſms of helliſh Phy<g ref="char:EOLhyphen"/>ſitians, which prov'd that ſlender diet hindred vain and falſe dreams — Could one make falſer at his houſe than to dream that one had eaten? They ſupp'd and were ſapp'd, and yet did not ſup. Well we went to bed,
+<pb n="88" facs="tcp:58413:47"/>
+and neither was it poſſible for <hi>Don Diego</hi> or me, to ſleep one wink the whole night long, but ſpent the time in contriving fit means to com<g ref="char:EOLhyphen"/>plain to his Father, and I counſell'd him with much earneſtneſs ſo to do, to which in time he did. But ſir, are you very aſſured, ſaid I, that we are living? Have we not been kill'd in the Combate that happened between the Fruiterers and us? Are we not Souls condemned to the pains of Purgatory? If it be ſo, 'tis a raillery to believe that your Father can clear us from hence; this cannot be done, if ſome charitable
+<pb n="89" facs="tcp:58413:47"/>
+perſons do not recite for us extraordianary Prayers of <hi>Jubile,</hi> and cauſe Maſſes to be ſaid for us on ſome pri<g ref="char:EOLhyphen"/>viledg'd Altar. With theſe entertainments, and a little time that we nodded, it was morning and time for us to riſe. At ſix a clock the <hi>Seg<g ref="char:EOLhyphen"/>nior Cabra</hi> call'd us for to ſay our Leſſons — Fear had made me leaner in one day than others in fifteen, My Shoulders and my Stomach did already ſwim in my Doublet; my Legs had need of ſeven pair of Stockins; my Teeth were become of an Orange colour (the true colour of deſpair) He made
+<pb n="90" facs="tcp:58413:48"/>
+me read the firſt Leſſon to the others, and my hunger was ſo great, that I broke my Faſt in eating half of the words. All this may be eaſily believed by him who ſhall know what his Man told me, that he had ſeen tvvo fat pad Nags put to him to keep, vvhich three daies after were become ſo lank, that they might as 'twere, fly through the Air: Alſo two fat Maſtiff-dogs, that within a daies ſpace, went out more ſlender than Grey-hounds. He did aſ<g ref="char:EOLhyphen"/>ſure me that all this was true and, I; who began to be acquainted with the Inne, did eaſily believe it.</p>
+            <p>
+               <pb n="91" facs="tcp:58413:48"/>
+               <hi>Cabra</hi> at length heard that there were many murmur<g ref="char:EOLhyphen"/>rings in the City againſt him, for the bad chear he made us, reſolved it ſhould be bet<g ref="char:EOLhyphen"/>ter, and to that end he got a Box made of Tin, full of holes, in which he put a lit<g ref="char:EOLhyphen"/>tle Bacon, and having faſt<g ref="char:EOLhyphen"/>ned a little ſtring to it, he let it hang a little while in the Pot, but finding that it was too expenſive, he be<g ref="char:EOLhyphen"/>lieved it to be ſufficient on<g ref="char:EOLhyphen"/>ly to ſhew it the Bacon with<g ref="char:EOLhyphen"/>out putting it in.</p>
+            <p>
+               <hi>Don Diego</hi> and I being not able longer to ſupport our hunger, which had af<g ref="char:EOLhyphen"/>flicted us for a moneth,
+<pb n="92" facs="tcp:58413:49"/>
+feign'd our ſelves ſick, not of a Feaver, for it might be eaſily obſerved we had none; and to complain of Head<g ref="char:EOLhyphen"/>aches, or Aches of the Teeth, that was not ſufficient to get us more meat. At length we concluded to ſay, that we had great gri<g ref="char:EOLhyphen"/>ings in our Guts, for having not been at ſtool in a long time; hoping that for ſa<g ref="char:EOLhyphen"/>ving of ſix pence, to pro<g ref="char:EOLhyphen"/>vide us remedy, he would rather be prevailed with to ſend us to <hi>Don Diego</hi>'s Fa<g ref="char:EOLhyphen"/>thers Houſe, but the Devil ordered it otherwiſe, for <hi>Cabra</hi> had inherited a Re<g ref="char:EOLhyphen"/>ceipt from his Father, who
+<pb n="93" facs="tcp:58413:49"/>
+was an Apothecary, and ſo ſent for an old Hag of ſe<g ref="char:EOLhyphen"/>venty years old (who was his Aunt) who ſerved him as a Nurſe-keeper, whom he ordered to prepare each of us a Clyſter; they began with <hi>Don Diego,</hi> who could not reſiſt them, and the old Nurſe, inſtead of putting it into his Body, puſht it be<g ref="char:EOLhyphen"/>tween his Skin and the Chine of his Back, and ſpouted it up to the Nape of his Neck, in as much as that which ſhould have ſerved him for inward Furniture, ſerved to garniſh him without, which made the poor Lad to cry for help, but <hi>Cabra</hi> coming
+<pb n="94" facs="tcp:58413:50"/>
+in bid her give the other Clyſter to me, and then they would prepare another for <hi>Don Diego.</hi> I had put on my Clothes (purpoſely to avoid it) but that would not ſerve my turn, for <hi>Ca<g ref="char:EOLhyphen"/>bra</hi> himſelf with a Crew, he had got hold on me in ſuch manner as I could not ſtir; and the Nurce gave it me with as much diſpatch as ſhe could, but I preſented a good part to her Noſe be<g ref="char:EOLhyphen"/>fore ſhe had leiſure to get out of the way: The Ma<g ref="char:EOLhyphen"/>ſter thereupon fell into a rage againſt me, and threat<g ref="char:EOLhyphen"/>ned to put me out of doors, but it was not my good
+<pb n="95" facs="tcp:58413:50"/>
+fortune to be ſo uſed.</p>
+            <p>We made our complaints to <hi>Don Diego</hi>'s Father, but <hi>Cabra</hi> ſent him word it was only becauſe we would not ſtudy, ſo that all we could do or ſay proved unſuc<g ref="char:EOLhyphen"/>ceſsful.</p>
+            <p>He made his old Aunt the Governeſs of the Fami<g ref="char:EOLhyphen"/>ly, and to dreſs our provi<g ref="char:EOLhyphen"/>ſion for us, and to ſerve his Penſioners; and turned a<g ref="char:EOLhyphen"/>way his man, becauſe on a <hi>Friday</hi> he perceived ſome few Crumbs of Bred to be on his Clothes; Heaven knows what we ſuffered un<g ref="char:EOLhyphen"/>der this damned Hag. She was exceeding deaf, and
+<pb n="96" facs="tcp:58413:51"/>
+blind, moreover ſhe was ſo great a mutterer of <hi>Pater Noſters,</hi> that one day the ſtring of her Beds being broke they fell into the Pot, which made her ſerve us with the devouteſt ſop that ever I eat in my life, ſome ſaid look here what black Peaſe we have, without doubt they are <hi>Ethiopian</hi> Peaſe: Our maſter was the firſt who taſted, and having got one of them into his mouth, and biting it broke one of his Teeth; ſhe would ordinarily put the Fire-pan into the Pot inſtead of the Ladle: I commonly found hairs, little ſticks and rolls
+<pb n="97" facs="tcp:58413:51"/>
+of flocks that ſhe uſd to ſpin, which I fancied ſhe put in on purpoſe to cram our Bellies the more.</p>
+            <p>All theſe miſeries we en<g ref="char:EOLhyphen"/>dured until the <hi>Lent</hi> fol<g ref="char:EOLhyphen"/>lowing, the beginning whereof one of the Penſi<g ref="char:EOLhyphen"/>oners fell fick; <hi>Cabra</hi> to a<g ref="char:EOLhyphen"/>void expence, delayed ſen<g ref="char:EOLhyphen"/>ding for a Phyſitian, till the poor Patient had need of, and requeſted, a Confeſſor, at length he had procured a Mountebank to come, who feeling his Pulſe, ſaid that Famine had by little and little killed the young man; they brought him the Holy Sacrament, and
+<pb n="98" facs="tcp:58413:52"/>
+when he ſaw it (he who had not ſpoke in a whole daies time) ſaid, my Lord and Saviour, it was neceſ<g ref="char:EOLhyphen"/>ſary that I ſaw you enter into this Houſe for to con<g ref="char:EOLhyphen"/>vince me that it was not Hell; and after the recei<g ref="char:EOLhyphen"/>ving it he died, and was poorly buried becauſe he was a ſtranger, which grie<g ref="char:EOLhyphen"/>ved us exceedingly. The Rumour of this pitiful Death ſpread through the City, and came to the Ears of <hi>Don Alonſo,</hi> who having no other Child but <hi>Don Di<g ref="char:EOLhyphen"/>ego,</hi> he became diſabuſed of the Cruelties of <hi>Cabra,</hi> and gave credit to two ſha<g ref="char:EOLhyphen"/>dows;
+<pb n="99" facs="tcp:58413:52"/>
+(for we were redu<g ref="char:EOLhyphen"/>ced to that Eſtate) and quickly came to take us from this deteſtable Inne, where although he ſaw us before his eyes yet asked of us (our ſelves) where we were; but when he came to the perfect knowledg of us, he treated the Graduate <hi>Cabra</hi> in very foul terms; then he got us carried from thence in a Chair, and our miſerable companions fol<g ref="char:EOLhyphen"/>lowed us with their eyes, with the ſame ſentiments as the Slaves at <hi>Algire</hi> do, when they ſee the depar<g ref="char:EOLhyphen"/>ture of ſuch as are Redeem<g ref="char:EOLhyphen"/>ed: Being arrived at <hi>Don
+<pb n="100" facs="tcp:58413:53"/>
+Alonſo</hi>'s Houſe, they put us very gingerly into Bed leaſt our Bones ſhould get out of their places and fall on the Ground: Spies were ſent for to pry into what part of our Faces our Eyes were hid: And as my ſuf<g ref="char:EOLhyphen"/>ferings had been greateſt, and my hunger imperial; (for I was alwaies treated as a ſervant) it was a long time e're they could find my Eyes. Phyſitians were ſpeedily ſent for, who ſtrait ordred that the duſt on our mouths ſhould be bruſhed off with a Foxes Tail, as is uſually done from Pictures; then they directed to give
+<pb n="101" facs="tcp:58413:53"/>
+us ſome ſubſtance, eſpecial<g ref="char:EOLhyphen"/>ly good Jellies. It is im<g ref="char:EOLhyphen"/>poſſible to tell the illumi<g ref="char:EOLhyphen"/>nations of Joy that our Bowels received on the firſt Nouriſhment which we took. They forbad chief<g ref="char:EOLhyphen"/>ly, that during nine daies any one ſhould ſpeak aloud in our Chamber, becauſe our ſtomacks being hollow every word made an Ec<g ref="char:EOLhyphen"/>cho; With theſe and ſome other precautions, we be<g ref="char:EOLhyphen"/>gan to amend, and to reco<g ref="char:EOLhyphen"/>ver a little motion; but they had much adoe to make us open our Jaws, which they effected by lit<g ref="char:EOLhyphen"/>tle and little with certain
+<pb n="102" facs="tcp:58413:54"/>
+Engines which they inven<g ref="char:EOLhyphen"/>ted. At the end of four daies we aroſe, but looked like the ſhadows of other men; and ſo yellow and magre vve vvere, that once we were taken to be the Offspring of the Fathers of the Deſert. We ſpent moſt of our time in paying our thanks to Heaven for re<g ref="char:EOLhyphen"/>deeming us from the Cap<g ref="char:EOLhyphen"/>tivity of the cruel <hi>Cabra,</hi> praying that never any Chriſtian might fall into his Tyrannick hands. We related ſometimes to <hi>Don Alonſo</hi> all his Maxims a<g ref="char:EOLhyphen"/>gainſt Gormandizing; (al<g ref="char:EOLhyphen"/>though the miſerable <hi>Cabra</hi>
+               <pb n="103" facs="tcp:58413:54"/>
+was never guilty of that ſin) and we made him laugh heartily, when we told him, that when he taught us the Holy Com<g ref="char:EOLhyphen"/>mandment (one of which ſayes) <hi>Thou ſhalt not kill</hi>— he ſtill added mark, ye ſaid he, Kill? Kill what? not only Men, but Patridges, Pheaſants, and Capons, or any thing elſe indeed that he would not give us to eat. After we had been three moneths at <hi>Don Alon<g ref="char:EOLhyphen"/>ſo</hi>'s, he took a reſolution to ſend his Son to compleat his Studies at <hi>Alcala,</hi> and asked me if I would attend him; I was never more
+<pb n="104" facs="tcp:58413:55"/>
+pleaſed than to be ſent far enough from the ſound of the very name of this per<g ref="char:EOLhyphen"/>ſecutor of Stomachs, and I humbly accepted the Ser<g ref="char:EOLhyphen"/>vice, and to live with him as long as he ſhould com<g ref="char:EOLhyphen"/>mand me. <hi>Alonſo</hi> allotted his Son a Steward, whoſe name was <hi>Aranda,</hi> to go<g ref="char:EOLhyphen"/>vern his Affairs, with a Bill of Exchange on a Merchant called <hi>Julian Merluche,</hi> and accordingly we took Coach.</p>
+            <p>At <hi>Alcala, Don Diego</hi> re<g ref="char:EOLhyphen"/>ceived a Letter from his Father, in which there was one alſo for me, which came from one of my Uncles named <hi>Archos Rampion,</hi> a
+<pb n="105" facs="tcp:58413:55"/>
+very vertuous Man, and well known in <hi>Segovia,</hi> by the juſticial Office he exer<g ref="char:EOLhyphen"/>ciſed; for all which had been done theſe four years, paſſed through his hands; not to tell you a lie — he was Hangman there, but an Eagle in his Profeſſion; and few men that ever ſaw him practice, but were am<g ref="char:EOLhyphen"/>bitious to be hanged by him. I will read you what he writes —</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>My dear Nephew Paul,</head>
+                  <p>The continual Occupations in which the King emploies me, in my Function of my charge, have hindred me from Writting to you
+<pb n="106" facs="tcp:58413:56"/>
+ſooner; you know that his Majeſties Service ought to be preferr'd above all things. I am (though with much regret) obliged to acquaint you with ſome ill news — Your Father died eight daies ſince, with more courage and reſolu<g ref="char:EOLhyphen"/>tion, than ever any ſhewed againſt the Attacques of Death. I can ſpeak it to my certain knowledge, as one who rais'd him up, and was his Superviſor. He mounted on an Aſs, with<g ref="char:EOLhyphen"/>out putting Foot in Stir<g ref="char:EOLhyphen"/>rup; the Robe which ſerves on theſe occaſions, ſeem<g ref="char:EOLhyphen"/>ed to have been made for
+<pb n="107" facs="tcp:58413:56"/>
+him: He went with much gravity; he looked on the Windows (as he paſs'd) ſa<g ref="char:EOLhyphen"/>luting all who quitted their Occupations to ſee his Pro<g ref="char:EOLhyphen"/>ceſſion; he twice turned up his <hi>Muſtachios,</hi> bid his Con<g ref="char:EOLhyphen"/>feſſors take Breath, and obſerv'd the moſt remark<g ref="char:EOLhyphen"/>able points of their Diſ<g ref="char:EOLhyphen"/>courſe to him, which they were glad to hear, and prais'd him highly for it. He arrived to the Gallows, and aſcended the Ladder with as much dexterity as the beſt Cat in <hi>Chriſten<g ref="char:EOLhyphen"/>dom</hi> could do; and per<g ref="char:EOLhyphen"/>ceiving one Round of the Ladder to be broken, he
+<pb n="108" facs="tcp:58413:57"/>
+deſcended again, and with a graceful preſence of Wit, applied himſelf to the Of<g ref="char:EOLhyphen"/>ficers of Juſtice, minding them to get it mended for ſome others, becauſe every one had not as much agi<g ref="char:EOLhyphen"/>lity as he. I cannot expreſs the admiration which his Bon-graces attracted from the whole World. Being ſat on the top of the Lad<g ref="char:EOLhyphen"/>der, he turned back the folds of his Robe, then he took the Halter and put it about his own Neck, and ſeeing that the Thealin [one of a religious Order] would again preach to him; ſaid he, good Father, I account
+<pb n="109" facs="tcp:58413:57"/>
+I have had preaching e<g ref="char:EOLhyphen"/>nough, let us diſpatch I pray, for I deſire not to ap<g ref="char:EOLhyphen"/>pear Prolix in my Affairs; He recommended to me the placing of his Bonnet on his Ear, and to wipe well his Face when he was dead, which I faill'd not to do: He fell without open<g ref="char:EOLhyphen"/>ing his Legs, or making the leaſt grimace, and all with a gravity without ex<g ref="char:EOLhyphen"/>ample. I quartered him and gave him the High<g ref="char:EOLhyphen"/>wayes for his Sepulcher. Heaven knows the dolor which I reſent, to ſee him there to keep open Table for the Jayes and Crowes;
+<pb n="110" facs="tcp:58413:58"/>
+but I hope that the Paſtry Cooks of this Country, will give us ſome Con<g ref="char:EOLhyphen"/>ſolation, and put him in<g ref="char:EOLhyphen"/>to Paſte in their pettit Pat<g ref="char:EOLhyphen"/>tees. I might almoſt tell you the ſame of your Mo<g ref="char:EOLhyphen"/>ther (although ſhe ſurvives him) for ſhe is in the In<g ref="char:EOLhyphen"/>quiſition at <hi>Toledo,</hi> ſhe is charged with diſinterring the Dead, and going e<g ref="char:EOLhyphen"/>very night to have a Bene<g ref="char:EOLhyphen"/>diction at the Sabbal; [which is the Conventicle of Wit<g ref="char:EOLhyphen"/>ches] there has been found with her more Heads, Legs and Arms, than in a Chap<g ref="char:EOLhyphen"/>pel of Miracles.</p>
+                  <p>
+                     <pb n="111" facs="tcp:58413:58"/>I am much afflicted that ſhe is ſuch a diſhonour to all of us, and more par<g ref="char:EOLhyphen"/>ticularly to my ſelf, that am a Miniſter of his Ma<g ref="char:EOLhyphen"/>jeſties, for ſuch Kindred are a great prejudice to the dignity of my Employ.</p>
+                  <p>There reſts here ſome Money concealed from your Father, which may amount to about 400 Duckets; I am your Un<g ref="char:EOLhyphen"/>cle, and all I have ſhall be for you: I adviſe you on receipt hereof, that you make a turn hither, with what Latin and Rhetorick you have learnt, for you will become a ſingular
+<pb n="112" facs="tcp:58413:59"/>
+man in the art of Hang<g ref="char:EOLhyphen"/>manſhip.</p>
+                  <p>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dreſs to me your ſud<g ref="char:EOLhyphen"/>dain anſwer; in the mean time Heaaven preſerve you,</p>
+                  <closer>
+                     <signed>
+                        <hi>So I remain, Your good Uncle</hi> Archos Rampion.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="113" facs="tcp:58413:59"/>
+            <p>I cannot deny but this News did very much af<g ref="char:EOLhyphen"/>flict me, but that which brings me ſome comfort (at leaſt to mitigate ſome part of my ſorrow) is the hopes and honour of my Uncles Letter, which I con<g ref="char:EOLhyphen"/>feſs is full of brave and lear<g ref="char:EOLhyphen"/>ned Expreſſions, which made me withdraw from the preſence of <hi>Don Diego</hi> to write him an anſwer; and I thought it would be<g ref="char:EOLhyphen"/>come my prudence not to acquaint him with the pur<g ref="char:EOLhyphen"/>port of it; for who does know whether in this pry<g ref="char:EOLhyphen"/>ing Age, he or ſome other
+<pb n="114" facs="tcp:58413:60"/>
+great perſon by their inte<g ref="char:EOLhyphen"/>reſt at Court, of the pow<g ref="char:EOLhyphen"/>erfulneſs of Purſe, might not prevail with his Maje<g ref="char:EOLhyphen"/>ſty, or the Magiſtrates of <hi>Segovia,</hi> to get the Reverſi<g ref="char:EOLhyphen"/>on of that high Office from me, which my honourable Uncle ſeems to deſign for me; ſo writing my thoughts, I found it much trouble to ſhew ſome Eloquence being not uſed to it, nor knew I well how to addreſs it—then I began to write my Let<g ref="char:EOLhyphen"/>ter.</p>
+            <p>
+               <hi>Dear <g ref="char:V">Ʋ</g>ncle—phſa</hi>— (ſaid I) that is not well begun, and looks too Citizen-like— <hi>Honoured—<g ref="char:V">Ʋ</g>ncle</hi>—And
+<pb n="115" facs="tcp:58413:60"/>
+this begins as it were wrote to an ordinary Gentleman, <hi>Moſt Honourable <g ref="char:V">Ʋ</g>ncle;</hi> ay that ſounds very well, and is fit for a perſon of ſo high Quality and Education; ſo having blotted out the two firſt, I fairly wrote it over, and reſolved to addreſs it.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>For the Honourable <hi>Archos Rampion,</hi> His Majeſties High Officer of Juſtice at <hi>Segovia.</hi>
+                  </head>
+                  <pb n="116" facs="tcp:58413:61"/>
+                  <opener>
+                     <salute>Moſt Honourable <g ref="char:V">Ʋ</g>ncle,</salute>
+                  </opener>
+                  <p>YOUR generous Lines were ſo emphatical<g ref="char:EOLhyphen"/>ly welcome, that I kiſs'd them a million of times, that done, I aſſumed Pen Ink and Paper, to preſent to you my acknowledge<g ref="char:EOLhyphen"/>ments for your moſt obli<g ref="char:EOLhyphen"/>ging Letter, in which you manifeſt an heroick zeal for the welfare of your Kin<g ref="char:EOLhyphen"/>dred, and particularly of my unworthy ſelf; I did not untill now conſider the advantage and preferment that Latin and Rhetorick may bring me to, for I perceive by yours that it
+<pb n="117" facs="tcp:58413:61"/>
+is very neceſſary in your high Employ. Another man would have writ me that my Father was hang'd, and Mother a Thief, Baud and Witch, and that's all; but you Sir I find, according as is expected from per<g ref="char:EOLhyphen"/>ſons of your great quality, do not plainly tell mat<g ref="char:EOLhyphen"/>ter of Fact, as Common Rogues do, but expreſs it in a gallant and honou<g ref="char:EOLhyphen"/>rable phraiſe, according to to the rules of Gran<g ref="char:EOLhyphen"/>deur. I proteſt Sir, your Letter has almoſt, diſtra<g ref="char:EOLhyphen"/>cted me with joy, that I may become honourable too, after the time that I
+<pb n="118" facs="tcp:58413:62"/>
+have been afflicted in the cruelleſt manner that ever a living Creature was, for I muſt tell you that I have been almoſt ſtarved at a Villains Houſe, called <hi>Ca<g ref="char:EOLhyphen"/>Cabra,</hi> and all I got by my long ſuffering, was that which you ſo much com<g ref="char:EOLhyphen"/>mend — Latin and Rhe<g ref="char:EOLhyphen"/>torick; and here I ſhall learn more — and ſo by that and your Favour I may get the honourable Dignity you mention, and have wherewith now and then to eat an <hi>Oli-podrido,</hi> and White Bread and good Oyl, inſtead of mel<g ref="char:EOLhyphen"/>ted Tallow, the droppings
+<pb n="119" facs="tcp:58413:62"/>
+of Candle (for we had no Kitchin-ſtuff) which my niggardly Maſter treaſured up to be eaten only on high Feſtivals for Sauce, and to lie on a ſoft Quilt inſtead of a ſack of hard knotted Flocks and Straw; but now Sir I eat pretty well, and will eat much more, to make me of a height requiſite, which this Employment may require; and I begin to turn up ſome <hi>Hayes</hi> already to<g ref="char:EOLhyphen"/>wards the obtaining of <hi>Muſtachios,</hi> which I fancy are very becoming, and will ſhew Greatneſs and State on the top of the
+<pb n="120" facs="tcp:58413:63"/>
+Ladder. In ſhort Sir, I ſhall ſtudy my Eyes out but I will make my ſelf fit to take your place, which I hope and requeſt you will ſecure for me; So I humbly kiſs the hands of your <hi>Seignory,</hi> and ſub<g ref="char:EOLhyphen"/>ſcribe my ſelf,</p>
+                  <closer>
+                     <salute>Moſt Honourable <g ref="char:V">Ʋ</g>ncle,</salute> 
+                     <signed>
+                        <hi>Your overjoy'd and moſt honourable Servant,</hi> Paul <hi>of</hi> Segovia.</signed>
+                  </closer>
+                  <postscript>
+                     <pb n="121" facs="tcp:58413:63"/>
+                     <opener>
+                        <salute>Honourable Sir,</salute>
+                     </opener>
+                     <p>PErmit this Poſtcript to requeſt you, that if you know of any o<g ref="char:EOLhyphen"/>ther Name my Father had, than <hi>Paul</hi> of <hi>Sego<g ref="char:EOLhyphen"/>via,</hi> to give me notice of it, that I ceaſe to uſe this, for methinks I ſhould have a great Name for my Office, yours ſounds bravely, but I wonder you do not write your ſelf <hi>Don Archos Rampion:</hi> I requeſt your Sentiments herein and Directions of your Command in this material Notion, for as yet I am not verſed in the
+<pb n="122" facs="tcp:58413:64"/>
+Politicks; nor have I read any thing relating to State-Affairs or Offices of His Majeſties Service; once more I humbly kiſs the hands of your Seignory: Which Letter I ſent by the Poſt; and when I have received an anſwer I will tell you more of my Adventures.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+         </div>
+         <div type="part">
+            <pb n="123" facs="tcp:58413:64"/>
+            <head>On the Qualities of a Marriage; or cer<g ref="char:EOLhyphen"/>tain Rules for the Choice of a Wife, in a Letter to the Counteſs of—</head>
+            <p>THAT which I ought to deſire in a Wife for my repoſe, my ho<g ref="char:EOLhyphen"/>nour and my ſafety, is to have had her Educated in your Graces Service, in your own Houſe, ſince ſhe can bring me no bet<g ref="char:EOLhyphen"/>ter Portion, either Tem<g ref="char:EOLhyphen"/>poral
+<pb n="124" facs="tcp:58413:65"/>
+or Spiritual, than to have been well inſtructed in obedience, and to be able with juſt Title to ſay that ſhe had the Quality of your moſt humble Ser<g ref="char:EOLhyphen"/>vant. But if your Grace ſhall command me to ſay more, I wil frankly tell you all the parts that I wiſh I could find in a Wife, that I might expect from the favour of Hea<g ref="char:EOLhyphen"/>ven or your Bounty; and this I will declare rather out of a deſign to entertain than to in<g ref="char:EOLhyphen"/>ſtruct you.</p>
+            <p>
+               <pb n="125" facs="tcp:58413:65"/>Madam I am no other thing but what your Gra<g ref="char:EOLhyphen"/>ces Husband has made me, for without him I was without credit in the World and undone man; and if at this day I am any thing more, it is be<g ref="char:EOLhyphen"/>cauſe he was pleaſed to make me ceaſe to be what I was—I have been wick<g ref="char:EOLhyphen"/>ed more waies than one, and ceaſing to be ſo, yet I cannot lawfully ſay that I am good, becauſe I forſook not evil but when I was weary to com<g ref="char:EOLhyphen"/>mit, and not with a real deſire to repent of it; I
+<pb n="126" facs="tcp:58413:66"/>
+had not in this any end, but to put my ſelf in ſafety; and I cannot be deceived, having no ſort of malice which has not ſerved me as an example or averſion.</p>
+            <p>I am in ſome conſidera<g ref="char:EOLhyphen"/>tion among my Neigh<g ref="char:EOLhyphen"/>bours, Maſter in my own Houſe and Son of Anceſtors, whoſe Memory honours one, but I mortifie them by mine.</p>
+            <p>As for my riches and my years, I ſhall alwaies govern them in ſuch man<g ref="char:EOLhyphen"/>ner
+<pb n="127" facs="tcp:58413:66"/>
+as I will endeavour to make it evident, that I have leſs years than Goods.</p>
+            <p>My Perſon gives nei<g ref="char:EOLhyphen"/>ther diſguſt nor averſion; and if it acquires not great praiſes, at leaſt it attracts no maledictions or railleries from ſuch who ſee me.</p>
+            <p>Thoſe who love me not, ſay that I am lame, for true it is that I ſeem ſo to them by a negli<g ref="char:EOLhyphen"/>gence in walking, inſo<g ref="char:EOLhyphen"/>much that they deter<g ref="char:EOLhyphen"/>mine
+<pb n="128" facs="tcp:58413:67"/>
+not whether I am effectually lame, or whe<g ref="char:EOLhyphen"/>ther I make continual re<g ref="char:EOLhyphen"/>verences.</p>
+            <p>Now that I have a<g ref="char:EOLhyphen"/>vowed who and what I am, I will declare how I wiſh a Wife to be that the Lord ſhould pleaſe to give me; I confeſs it would be too great an impu<g ref="char:EOLhyphen"/>dence in me (without the command of your Gra<g ref="char:EOLhyphen"/>ces) to ſay how I would have a Wife, ſince that few Women would have me ſuch as I am.</p>
+            <p>
+               <pb n="129" facs="tcp:58413:67"/>I deſire, preciſely, that ſhe be noble, and ſhe have Wit; for if ſhe be innocent, ſhe would be uncapable of Converſati<g ref="char:EOLhyphen"/>on, and to poſſeſs two things which I account moſt eſſential to a noble Soul, which are <hi>Equality</hi> and <hi>Virtue.</hi> I expect in her what is neceſſary in a married Woman, which may not be in a <hi>Bleſt and Religious One;</hi> and that her <hi>Oratory</hi> be her <hi>Duty</hi> to her <hi>Husband.</hi>
+            </p>
+            <p>But I would rather love her <hi>Innocent</hi> than <hi>Scient</hi>
+               <pb n="130" facs="tcp:58413:68"/>
+as a Preacher, it being more eaſie to endure that which a perſon knows not, than to ſuffer by that which he preſumes.</p>
+            <p>I would have one nei<g ref="char:EOLhyphen"/>ther <hi>Fair</hi> nor <hi>
+                  <g ref="char:V">Ʋ</g>gly,</hi> be<g ref="char:EOLhyphen"/>tween thoſe Extreams, the middle is more agree<g ref="char:EOLhyphen"/>able and ſafe; <hi>
+                  <g ref="char:V">Ʋ</g>gly,</hi> ſhe is no company, but a perpetual diſguſt; <hi>Fair,</hi> ſhe is not ſo much a de<g ref="char:EOLhyphen"/>light as a continual care; but if it muſt be that ſhe be one or the other, I would have her to be rather <hi>Fair</hi> than <hi>
+                  <g ref="char:V">Ʋ</g>gly;</hi>
+               <pb n="131" facs="tcp:58413:68"/>
+for it is better to have <hi>Care</hi> than <hi>Fear;</hi> and to have one guard than to flye from.</p>
+            <p>I would not deſire one rich or poor, that ſhe had only ſo much as was neceſſary; that ſhe might not be ſaid to buy me or I her; where <hi>Virtue</hi> is to be found <hi>Wealth</hi> ought not to be in great con<g ref="char:EOLhyphen"/>ſideration.</p>
+            <p>If he who poſſeſſes her, quits her becauſe he be<g ref="char:EOLhyphen"/>lieves her to be poor, he cannot be rich but with
+<pb n="132" facs="tcp:58413:69"/>
+Infamy—And if he who poſſeſſes her not, deſires her becauſe he believes her to be rich, he is poor with Infamy.</p>
+            <p>I ſhould love her bet<g ref="char:EOLhyphen"/>ter <hi>Gay</hi> than <hi>Sad;</hi> for in <hi>Domeſtick</hi> Affairs the oc<g ref="char:EOLhyphen"/>caſions of ſadneſs will not fail us, which honeſtly moderate carefulneſs and joy will.</p>
+            <p>To have a Wife that is dull and alwaies reti<g ref="char:EOLhyphen"/>red like a Cobweb in a Corner, it is to eſpouſe a continual diſguſt of life.</p>
+            <p>
+               <pb n="133" facs="tcp:58413:69"/>It is neceſſary that ſhe be Proper, for my only ſa<g ref="char:EOLhyphen"/>tisfaction, and not to pleaſe thoſe who have but leiſure to partake her; ſhe ſhould be dreſt with what becomes her beſt, and not with that which the Libertiſm of other Wo<g ref="char:EOLhyphen"/>men invents; ſhe muſt not do that which ſome do, but that which all ought to do.</p>
+            <p>I ſhould love her ra<g ref="char:EOLhyphen"/>ther to be a Huſwife than a Prodigal, for from the one nothing but fears is to be expected, and from
+<pb n="134" facs="tcp:58413:70"/>
+the other profit is to be hoped — But it would be a great good to fin done that is liberal —</p>
+            <p>It would be indifferent to me whether ſhe was Brown or Fair, I deſire only that if ſhe be Brown, that ſhe labour not to become Fair — for falſities and diſquiets gives commonly more ſuſpition than Love.</p>
+            <p>It imports not much whether ſhe be Short or Tall; <hi>Chiopins</hi> or <hi>Stilts</hi> (much uſed in <hi>Spain</hi> and <hi>Italy</hi>)
+<pb n="135" facs="tcp:58413:70"/>
+make almoſt all ſizes, and each Stature has its pecu<g ref="char:EOLhyphen"/>liar Charms and Graces—</p>
+            <p>As for what regards Fatneſs or Leanneſs, if I cannot find one of a ne<g ref="char:EOLhyphen"/>ceſſary plumpneſs, ſhe would rather pleaſe me, being lean, and would be more acceptable to my Fancy, to be rather ſlender as a Cow than groſs as a Tun.</p>
+            <p>I would have one neither in Infancy nor much Aged; the one would be as a Cra<g ref="char:EOLhyphen"/>dle, the other as a Coffin. I have forgot how Chil<g ref="char:EOLhyphen"/>dren
+<pb n="136" facs="tcp:58413:71"/>
+are Rock'd; and I have not yet learned the Reſponſes, which are ſaid for the Dead — I muſt have one made, which I nevertheleſs wiſh was a young one — I wiſh above all, that ſhe had not thoſe delicate Hands, thoſe fair Eyes, and that pretty Mouth; for with thoſe three things, which of themſelves are perfectly good, it would be impoſſible that one could ſuffer it, becauſe that Women make them<g ref="char:EOLhyphen"/>ſelves unſupportable with their coſtly Bracelets, to have their Hands gazed
+<pb n="137" facs="tcp:58413:71"/>
+on, which are alwaies as 'twere fencing with their curled Hairs, and ſtill wea<g ref="char:EOLhyphen"/>ving them into Cobwebs, and emploping them a<g ref="char:EOLhyphen"/>bout their Head-tire, to give occaſion to conſider their fair Eyes, which they rock, and put them to ſleep, then awake 'em on a ſudden, and make 'em ſeem dying; with ſo ma<g ref="char:EOLhyphen"/>ny Apiſh poſtures, that the Devil himſelf cannot not ſuffer. Is it not ridicu<g ref="char:EOLhyphen"/>lous to ſee a Woman at every moment to ſhew her Teeth, to haev'em admired, rolling and biting her
+<pb n="138" facs="tcp:58413:72"/>
+Cherry Lips, to give freſher colour to 'em, as if ſhe af<g ref="char:EOLhyphen"/>fected to ſtudy the Gri<g ref="char:EOLhyphen"/>maces of an angry gur<g ref="char:EOLhyphen"/>ling Maſtiff, or of one that was damn'd. Too much care is diſadvanta<g ref="char:EOLhyphen"/>geous to perfection, when negligence moſt often hides defects.</p>
+            <p>I covet not that ſhe be an Orphan, becauſe I would not be obliged to ſo many comemorations of the Dead; neither would I have her to have much Kindred, 'tis ſufficient if ſhe has a Father and a
+<pb n="139" facs="tcp:58413:72"/>
+Mother in this World, and all her Aunts in Pur<g ref="char:EOLhyphen"/>gatory, for whom I will cauſe as many Maſſes to be ſaid as ſhe in reaſon ſhould requeſt.</p>
+            <p>I ſhould eſteem it a fa<g ref="char:EOLhyphen"/>vour of Heaven, if ſhe was a little deaf, or did a lit<g ref="char:EOLhyphen"/>tle ſtammer; thoſe Qua<g ref="char:EOLhyphen"/>lities will avoid long Con<g ref="char:EOLhyphen"/>verſations and frequent Vi<g ref="char:EOLhyphen"/>ſits, which will make the beſt conditioned Woman, to loſe half of the Ware in words, which are pro<g ref="char:EOLhyphen"/>fitable for nothing.</p>
+            <p>
+               <pb n="140" facs="tcp:58413:73"/>And that which would be the moſt important, is that ſhe ſuffer no Go<g ref="char:EOLhyphen"/>verneſs <hi>(Duegna)</hi> in her Houſe, which is in my opinion an inſtrument lit<g ref="char:EOLhyphen"/>tle neceſſary in Huſwife<g ref="char:EOLhyphen"/>ry: However it is cer<g ref="char:EOLhyphen"/>tain, that I will eſteem her ſuch as I ſhall have her; and that (if it muſt be ſo) I will ſuffer as I merit, preſuming that I may be married with lit<g ref="char:EOLhyphen"/>tle good fortune: But that it is very difficult that I be ill-married.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58413:73"/>
+         </div>
+      </body>
+   </text>
+</TEI>
